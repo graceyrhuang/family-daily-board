@@ -1,0 +1,328 @@
+{
+  "menus": [
+    {
+      "date": "2026-11-19",
+      "dinner": "番茄炖牛肉（用户确认）、清炒西兰花、蒸土豆",
+      "baby": [
+        "苹果燕麦糊、酸奶",
+        "菠菜豆腐蒸蛋、南瓜泥",
+        "番茄炖牛肉（用户确认，炖软切碎）、西兰花碎、土豆泥"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "dinner": "葱姜鸡翅、清炒小白菜、蒸紫薯",
+      "baby": [
+        "牛油果泥、软燕麦粥、酸奶",
+        "有机鸡腿肉胡萝卜软面",
+        "去骨鸡腿肉小白菜碎、紫薯泥"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "dinner": "Mama’s food",
+      "baby": [
+        "Mama’s food",
+        "Mama’s food",
+        "Mama’s food"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "dinner": "Mama’s food",
+      "baby": [
+        "Mama’s food",
+        "Mama’s food",
+        "Mama’s food"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "dinner": "香菇蒸有机去骨鸡腿肉、蒸蛋、炒小白菜、蒸土豆",
+      "baby": [
+        "苹果燕麦糊、酸奶",
+        "牛肉胡萝卜软面",
+        "香菇鸡腿肉碎、小白菜碎、土豆泥"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "dinner": "有机火鸡肉末蒸蛋、清炒卷心菜、蒸土豆",
+      "baby": [
+        "牛油果泥、软燕麦粥、酸奶",
+        "番茄牛肉软面",
+        "火鸡肉末蒸蛋、卷心菜碎、土豆泥"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "dinner": "番茄炒蛋、香菇豆腐、炒西兰花、蒸紫薯",
+      "baby": [
+        "南瓜燕麦糊、蒸软梨、酸奶",
+        "牛肉西葫芦软面",
+        "番茄蒸蛋、豆腐西兰花碎、紫薯泥"
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "name": "宝宝酸奶",
+      "quantity": "16 瓶",
+      "note": "用户报告的明确数量，未现场核验",
+      "date": "2026-11-17",
+      "expiry": "best before 2026-12-05"
+    },
+    {
+      "name": "燕麦",
+      "quantity": "很多",
+      "note": "用户定性描述，具体数量未知",
+      "date": "2026-11-17",
+      "expiry": "未知"
+    },
+    {
+      "name": "面条",
+      "quantity": "很多",
+      "note": "用户定性描述，具体数量未知",
+      "date": "2026-11-17",
+      "expiry": "未知"
+    },
+    {
+      "name": "牛油果油",
+      "quantity": "已有",
+      "note": "用户确认有库存，数量未知",
+      "date": "2026-11-17",
+      "expiry": "未知"
+    },
+    {
+      "name": "Kirkland Organic 鸡翅",
+      "quantity": "至少 2 个清晰可辨包装，另有遮挡包装",
+      "note": "可见下限，总重量未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "猪绞肉",
+      "quantity": "至少 1 盒标签可读，前侧另有疑似同类肉盒",
+      "note": "确认可见 1 盒，其他待辨认",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "冰淇淋",
+      "quantity": "可见 1 桶",
+      "note": "可见下限",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "Trader Joe’s 牛肉丸",
+      "quantity": "1 盒，重量与颗数未知",
+      "note": "照片可见 1 盒，品名由 家人 确认",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "鸡蛋",
+      "quantity": "1 盒，前排可见至少 4 枚",
+      "note": "可见下限，总数未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "葡萄",
+      "quantity": "1 袋可见",
+      "note": "剩余重量未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "柿子包装",
+      "quantity": "1 盒可见",
+      "note": "盒内实际数量未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "牛油果",
+      "quantity": "至少 2 个",
+      "note": "可见下限",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "苹果",
+      "quantity": "至少 1 个，另有苹果袋",
+      "note": "可见下限，总数未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "葱",
+      "quantity": "约 1 袋",
+      "note": "目测估算",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "Baby Spinach 菠菜",
+      "quantity": "1 盒，包装净重 454 g",
+      "note": "包装规格，非剩余重量",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "绿皮南瓜",
+      "quantity": "1 个",
+      "note": "可见数量",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "红辣椒",
+      "quantity": "约 1 袋",
+      "note": "目测估算",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "三文鱼",
+      "quantity": "冷冻室已有",
+      "note": "数量、重量未知",
+      "date": "2026-11-18",
+      "expiry": ""
+    },
+    {
+      "name": "牛肉",
+      "quantity": "家中已有",
+      "note": "数量、部位及有机认证未知",
+      "date": "2026-11-19",
+      "expiry": ""
+    },
+    {
+      "name": "姜",
+      "quantity": "家中已有",
+      "note": "数量与品质未知",
+      "date": "2026-11-19",
+      "expiry": ""
+    }
+  ],
+  "shopping": [
+    {
+      "store": "Costco",
+      "name": "Kirkland Signature Organic Boneless Skinless Chicken Thighs",
+      "quantity": "约 5.5 lb · 1 包",
+      "note": "计划购买；本周用不完的分装冷冻"
+    },
+    {
+      "store": "Costco",
+      "name": "Organic Ground Turkey",
+      "quantity": "24 oz × 2，共 3 lb · 1 组",
+      "note": "计划购买；余量分装冷冻"
+    },
+    {
+      "store": "Costco",
+      "name": "Kirkland Signature Organic Eggs",
+      "quantity": "24 枚 · 1 盒",
+      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+    },
+    {
+      "store": "Costco",
+      "name": "Kirkland Signature Organic Extra Firm Tofu",
+      "quantity": "16 oz × 4 · 1 组",
+      "note": "计划购买；余量按日期安排后续菜单"
+    },
+    {
+      "store": "Costco",
+      "name": "Kirkland Signature Organic Frozen Broccoli Florets",
+      "quantity": "1 lb × 4 · 0",
+      "note": "取消 Costco 购买；Whole Foods 已下单 365 Organic Broccoli Florets 10 oz × 2，避免重复"
+    },
+    {
+      "store": "Costco",
+      "name": "Organic Tomatoes on the Vine",
+      "quantity": "4 lb · 1 盒",
+      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+    },
+    {
+      "store": "Costco",
+      "name": "Organic Baking Potatoes",
+      "quantity": "10 lb · 1 袋",
+      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+    },
+    {
+      "store": "Costco",
+      "name": "Stemilt Artisan Organics Gala Apples",
+      "quantity": "3 lb · 1 袋",
+      "note": "计划购买；先检查家中苹果余量，足够则不买"
+    },
+    {
+      "store": "Costco",
+      "name": "Organic Bananas",
+      "quantity": "3 lb · 1 把",
+      "note": "计划购买"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Purple Sweet Potatoes",
+      "quantity": "约 4–5 lb",
+      "note": "本次 Whole Foods 加购明确排除，未加购物车；后续来源待定"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Baby Bok Choy",
+      "quantity": "1 Each × 3，估 0.99 lb",
+      "note": "已下单；$3.49/lb，估算 $3.46，最终按实际重量"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Napa Cabbage",
+      "quantity": "1 颗，估 2.60 lb",
+      "note": "已下单；$1.99/lb，估算 $5.17；为正式订单行，非打包后替换结果"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Zucchini Squash",
+      "quantity": "2 根，估 0.94 lb",
+      "note": "已下单；$2.49/lb，估算 $2.34，最终按实际重量"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Rainbow Carrot Bag",
+      "quantity": "32 oz × 1",
+      "note": "已下单；$3.69；包装大于原计划 1 lb"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Shiitake Mushrooms",
+      "quantity": "8 oz × 1",
+      "note": "已下单；$11.99/lb，估算 $6.00"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Organic Bartlett Pear",
+      "quantity": "2 个，估 0.94 lb",
+      "note": "已下单；$2.69/lb，估算 $2.53，最终数量比加购计划少 1 个"
+    },
+    {
+      "store": "Whole Foods",
+      "name": "Costco 缺货替补：有机鸡蛋、番茄、土豆",
+      "quantity": "按上表规格补足",
+      "note": "仅在 Costco 缺货时购买，避免重复"
+    }
+  ],
+  "trip": [
+    "Kirkland Signature Organic Boneless Skinless Chicken Thighs，约 5.5 lb，1 包。",
+    "Organic Ground Turkey，24 oz × 2，共 3 lb，1 组。",
+    "Kirkland Signature Organic Eggs，24 枚，1 盒。",
+    "Kirkland Signature Organic Extra Firm Tofu，16 oz × 4，1 组。",
+    "Organic Tomatoes on the Vine，4 lb，1 盒。",
+    "Organic Baking Potatoes，10 lb，1 袋。",
+    "Organic Bananas，3 lb，1 把。",
+    "Organic Gala Apples，3 lb：仅在家中苹果余量不足时买。",
+    "Organic Purple Sweet Potatoes：只有包装同时明确写 Organic 和 Purple Sweet Potatoes 时才买约 4–5 lb；普通橙心 sweet potatoes 不替代紫薯。",
+    "西兰花及其他 Whole Foods 已下单的蔬果，避免重复。",
+    "牛肉、姜、鸡翅、菠菜、南瓜、燕麦、面条、牛油果油、宝宝酸奶：家中已有或本轮无需补购。",
+    "没有明确 Organic 标识的食品，以及无法核验为有机的手抓饼。"
+  ],
+  "updatedAt": "2026-11-19T13:34:22.385066-08:00"
+}
