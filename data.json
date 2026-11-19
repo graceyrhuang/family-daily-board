@@ -2,327 +2,1395 @@
   "menus": [
     {
       "date": "2026-11-19",
-      "dinner": "番茄炖牛肉（用户确认）、清炒西兰花、蒸土豆",
+      "dinner": {
+        "zh": "番茄炖牛肉、清炒西兰花、蒸土豆",
+        "en": "Tomato beef stew, sautéed broccoli & steamed potatoes",
+        "ru": "Говядина с томатами, брокколи и картофель на пару"
+      },
       "baby": [
-        "苹果燕麦糊、酸奶",
-        "菠菜豆腐蒸蛋、南瓜泥",
-        "番茄炖牛肉（用户确认，炖软切碎）、西兰花碎、土豆泥"
+        {
+          "zh": "苹果燕麦糊、酸奶",
+          "en": "Apple oatmeal & yogurt",
+          "ru": "Овсяная каша с яблоком и йогурт"
+        },
+        {
+          "zh": "菠菜豆腐蒸蛋、南瓜泥",
+          "en": "Steamed egg with spinach and tofu & pumpkin purée",
+          "ru": "Паровой омлет со шпинатом и тофу, тыквенное пюре"
+        },
+        {
+          "zh": "番茄炖牛肉（炖软切碎）、西兰花碎、土豆泥",
+          "en": "Tender minced beef with tomato, soft broccoli & mashed potatoes",
+          "ru": "Мягкая измельчённая говядина с томатом, брокколи и картофельное пюре"
+        }
       ]
     },
     {
       "date": "2026-11-20",
-      "dinner": "葱姜鸡翅、清炒小白菜、蒸紫薯",
+      "dinner": {
+        "zh": "葱姜鸡翅、清炒小白菜、蒸紫薯",
+        "en": "Ginger-scallion chicken wings, bok choy & purple sweet potatoes",
+        "ru": "Куриные крылышки с имбирём и зелёным луком, пак-чой и фиолетовый батат"
+      },
       "baby": [
-        "牛油果泥、软燕麦粥、酸奶",
-        "有机鸡腿肉胡萝卜软面",
-        "去骨鸡腿肉小白菜碎、紫薯泥"
+        {
+          "zh": "牛油果泥、软燕麦粥、酸奶",
+          "en": "Mashed avocado, soft oatmeal & yogurt",
+          "ru": "Пюре из авокадо, мягкая овсяная каша и йогурт"
+        },
+        {
+          "zh": "鸡腿肉胡萝卜软面",
+          "en": "Soft noodles with chicken and carrot",
+          "ru": "Мягкая лапша с курицей и морковью"
+        },
+        {
+          "zh": "鸡腿肉小白菜碎、紫薯泥",
+          "en": "Minced chicken with bok choy & purple sweet potato mash",
+          "ru": "Измельчённая курица с пак-чой и пюре из фиолетового батата"
+        }
       ]
     },
     {
       "date": "2026-11-21",
-      "dinner": "Mama’s food",
+      "dinner": {
+        "zh": "Mama’s food",
+        "en": "Mama’s food",
+        "ru": "Еда от бабушки"
+      },
       "baby": [
-        "Mama’s food",
-        "Mama’s food",
-        "Mama’s food"
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        }
       ]
     },
     {
       "date": "2026-11-22",
-      "dinner": "Mama’s food",
+      "dinner": {
+        "zh": "Mama’s food",
+        "en": "Mama’s food",
+        "ru": "Еда от бабушки"
+      },
       "baby": [
-        "Mama’s food",
-        "Mama’s food",
-        "Mama’s food"
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        }
       ]
     },
     {
       "date": "2026-11-23",
-      "dinner": "香菇蒸有机去骨鸡腿肉、蒸蛋、炒小白菜、蒸土豆",
+      "dinner": {
+        "zh": "香菇蒸鸡腿肉、蒸蛋、炒小白菜、蒸土豆",
+        "en": "Steamed chicken with shiitake, steamed egg, bok choy & potatoes",
+        "ru": "Курица с шиитаке на пару, паровой омлет, пак-чой и картофель"
+      },
       "baby": [
-        "苹果燕麦糊、酸奶",
-        "牛肉胡萝卜软面",
-        "香菇鸡腿肉碎、小白菜碎、土豆泥"
+        {
+          "zh": "苹果燕麦糊、酸奶",
+          "en": "Apple oatmeal & yogurt",
+          "ru": "Овсяная каша с яблоком и йогурт"
+        },
+        {
+          "zh": "牛肉胡萝卜软面",
+          "en": "Soft noodles with beef and carrot",
+          "ru": "Мягкая лапша с говядиной и морковью"
+        },
+        {
+          "zh": "香菇鸡腿肉碎、小白菜碎、土豆泥",
+          "en": "Minced chicken with shiitake, bok choy & mashed potatoes",
+          "ru": "Измельчённая курица с шиитаке, пак-чой и картофельное пюре"
+        }
       ]
     },
     {
       "date": "2026-11-24",
-      "dinner": "有机火鸡肉末蒸蛋、清炒卷心菜、蒸土豆",
+      "dinner": {
+        "zh": "火鸡肉末蒸蛋、清炒卷心菜、蒸土豆",
+        "en": "Steamed egg with ground turkey, sautéed cabbage & potatoes",
+        "ru": "Паровой омлет с фаршем индейки, капуста и картофель"
+      },
       "baby": [
-        "牛油果泥、软燕麦粥、酸奶",
-        "番茄牛肉软面",
-        "火鸡肉末蒸蛋、卷心菜碎、土豆泥"
+        {
+          "zh": "牛油果泥、软燕麦粥、酸奶",
+          "en": "Mashed avocado, soft oatmeal & yogurt",
+          "ru": "Пюре из авокадо, мягкая овсяная каша и йогурт"
+        },
+        {
+          "zh": "番茄牛肉软面",
+          "en": "Soft noodles with tomato and beef",
+          "ru": "Мягкая лапша с томатом и говядиной"
+        },
+        {
+          "zh": "火鸡肉末蒸蛋、卷心菜碎、土豆泥",
+          "en": "Steamed egg with turkey, soft cabbage & mashed potatoes",
+          "ru": "Паровой омлет с индейкой, мягкая капуста и картофельное пюре"
+        }
       ]
     },
     {
       "date": "2026-11-25",
-      "dinner": "番茄炒蛋、香菇豆腐、炒西兰花、蒸紫薯",
+      "dinner": {
+        "zh": "番茄炒蛋、香菇豆腐、炒西兰花、蒸紫薯",
+        "en": "Tomato scrambled eggs, shiitake tofu, broccoli & purple sweet potatoes",
+        "ru": "Яичница с томатами, тофу с шиитаке, брокколи и фиолетовый батат"
+      },
       "baby": [
-        "南瓜燕麦糊、蒸软梨、酸奶",
-        "牛肉西葫芦软面",
-        "番茄蒸蛋、豆腐西兰花碎、紫薯泥"
+        {
+          "zh": "南瓜燕麦糊、蒸软梨、酸奶",
+          "en": "Pumpkin oatmeal, steamed pear & yogurt",
+          "ru": "Овсяная каша с тыквой, груша на пару и йогурт"
+        },
+        {
+          "zh": "牛肉西葫芦软面",
+          "en": "Soft noodles with beef and zucchini",
+          "ru": "Мягкая лапша с говядиной и кабачком"
+        },
+        {
+          "zh": "番茄蒸蛋、豆腐西兰花碎、紫薯泥",
+          "en": "Steamed egg with tomato, tofu and broccoli & purple sweet potato mash",
+          "ru": "Паровой омлет с томатом, тофу с брокколи и пюре из фиолетового батата"
+        }
       ]
     }
   ],
   "inventory": [
     {
-      "name": "宝宝酸奶",
-      "quantity": "16 瓶",
-      "note": "用户报告的明确数量，未现场核验",
+      "name": {
+        "zh": "宝宝酸奶",
+        "en": "Baby yogurt",
+        "ru": "Детский йогурт"
+      },
+      "quantity": {
+        "zh": "16 瓶",
+        "en": "16 cups",
+        "ru": "16 стаканчиков"
+      },
       "date": "2026-11-17",
-      "expiry": "best before 2026-12-05"
+      "expiry": "best before 2026-12-05",
+      "id": "yogurt"
     },
     {
-      "name": "燕麦",
-      "quantity": "很多",
-      "note": "用户定性描述，具体数量未知",
+      "name": {
+        "zh": "燕麦",
+        "en": "Oats",
+        "ru": "Овсяные хлопья"
+      },
+      "quantity": {
+        "zh": "充足",
+        "en": "Plenty",
+        "ru": "Достаточно"
+      },
       "date": "2026-11-17",
-      "expiry": "未知"
+      "expiry": "",
+      "id": "oats"
     },
     {
-      "name": "面条",
-      "quantity": "很多",
-      "note": "用户定性描述，具体数量未知",
+      "name": {
+        "zh": "面条",
+        "en": "Noodles",
+        "ru": "Лапша"
+      },
+      "quantity": {
+        "zh": "充足",
+        "en": "Plenty",
+        "ru": "Достаточно"
+      },
       "date": "2026-11-17",
-      "expiry": "未知"
+      "expiry": "",
+      "id": "noodles"
     },
     {
-      "name": "牛油果油",
-      "quantity": "已有",
-      "note": "用户确认有库存，数量未知",
+      "name": {
+        "zh": "牛油果油",
+        "en": "Avocado oil",
+        "ru": "Масло авокадо"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-17",
-      "expiry": "未知"
+      "expiry": "",
+      "id": "oil"
     },
     {
-      "name": "Kirkland Organic 鸡翅",
-      "quantity": "至少 2 个清晰可辨包装，另有遮挡包装",
-      "note": "可见下限，总重量未知",
+      "name": {
+        "zh": "有机鸡翅",
+        "en": "Organic chicken wings",
+        "ru": "Органические куриные крылышки"
+      },
+      "quantity": {
+        "zh": "2 包",
+        "en": "2 packs",
+        "ru": "2 уп."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "wings"
     },
     {
-      "name": "猪绞肉",
-      "quantity": "至少 1 盒标签可读，前侧另有疑似同类肉盒",
-      "note": "确认可见 1 盒，其他待辨认",
+      "name": {
+        "zh": "猪绞肉",
+        "en": "Ground pork",
+        "ru": "Свиной фарш"
+      },
+      "quantity": {
+        "zh": "1 盒",
+        "en": "1 box",
+        "ru": "1 уп."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "pork"
     },
     {
-      "name": "冰淇淋",
-      "quantity": "可见 1 桶",
-      "note": "可见下限",
+      "name": {
+        "zh": "冰淇淋",
+        "en": "Ice cream",
+        "ru": "Мороженое"
+      },
+      "quantity": {
+        "zh": "1 桶",
+        "en": "1 tub",
+        "ru": "1 уп."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "icecream"
     },
     {
-      "name": "Trader Joe’s 牛肉丸",
-      "quantity": "1 盒，重量与颗数未知",
-      "note": "照片可见 1 盒，品名由 家人 确认",
+      "name": {
+        "zh": "牛肉丸",
+        "en": "Beef meatballs",
+        "ru": "Говяжьи фрикадельки"
+      },
+      "quantity": {
+        "zh": "1 盒",
+        "en": "1 box",
+        "ru": "1 уп."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "meatballs"
     },
     {
-      "name": "鸡蛋",
-      "quantity": "1 盒，前排可见至少 4 枚",
-      "note": "可见下限，总数未知",
+      "name": {
+        "zh": "鸡蛋",
+        "en": "Eggs",
+        "ru": "Яйца"
+      },
+      "quantity": {
+        "zh": "4 枚",
+        "en": "4 eggs",
+        "ru": "4 шт."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "eggs"
     },
     {
-      "name": "葡萄",
-      "quantity": "1 袋可见",
-      "note": "剩余重量未知",
+      "name": {
+        "zh": "葡萄",
+        "en": "Grapes",
+        "ru": "Виноград"
+      },
+      "quantity": {
+        "zh": "1 袋",
+        "en": "1 bag",
+        "ru": "1 пак."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "grapes"
     },
     {
-      "name": "柿子包装",
-      "quantity": "1 盒可见",
-      "note": "盒内实际数量未知",
+      "name": {
+        "zh": "柿子",
+        "en": "Persimmons",
+        "ru": "Хурма"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "persimmons"
     },
     {
-      "name": "牛油果",
-      "quantity": "至少 2 个",
-      "note": "可见下限",
+      "name": {
+        "zh": "牛油果",
+        "en": "Avocados",
+        "ru": "Авокадо"
+      },
+      "quantity": {
+        "zh": "2 个",
+        "en": "2 pcs",
+        "ru": "2 шт."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "avocado"
     },
     {
-      "name": "苹果",
-      "quantity": "至少 1 个，另有苹果袋",
-      "note": "可见下限，总数未知",
+      "name": {
+        "zh": "苹果",
+        "en": "Apples",
+        "ru": "Яблоки"
+      },
+      "quantity": {
+        "zh": "1 个",
+        "en": "1",
+        "ru": "1 шт."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "apple"
     },
     {
-      "name": "葱",
-      "quantity": "约 1 袋",
-      "note": "目测估算",
+      "name": {
+        "zh": "葱",
+        "en": "Scallions",
+        "ru": "Зелёный лук"
+      },
+      "quantity": {
+        "zh": "1 袋",
+        "en": "1 bag",
+        "ru": "1 пак."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "scallion"
     },
     {
-      "name": "Baby Spinach 菠菜",
-      "quantity": "1 盒，包装净重 454 g",
-      "note": "包装规格，非剩余重量",
+      "name": {
+        "zh": "菠菜",
+        "en": "Spinach",
+        "ru": "Шпинат"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "spinach"
     },
     {
-      "name": "绿皮南瓜",
-      "quantity": "1 个",
-      "note": "可见数量",
+      "name": {
+        "zh": "南瓜",
+        "en": "Pumpkin",
+        "ru": "Тыква"
+      },
+      "quantity": {
+        "zh": "1 个",
+        "en": "1",
+        "ru": "1 шт."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "pumpkin"
     },
     {
-      "name": "红辣椒",
-      "quantity": "约 1 袋",
-      "note": "目测估算",
+      "name": {
+        "zh": "红辣椒",
+        "en": "Red chilies",
+        "ru": "Красный перец чили"
+      },
+      "quantity": {
+        "zh": "1 袋",
+        "en": "1 bag",
+        "ru": "1 пак."
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "chili"
     },
     {
-      "name": "三文鱼",
-      "quantity": "冷冻室已有",
-      "note": "数量、重量未知",
+      "name": {
+        "zh": "三文鱼",
+        "en": "Salmon",
+        "ru": "Лосось"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-18",
-      "expiry": ""
+      "expiry": "",
+      "id": "salmon"
     },
     {
-      "name": "牛肉",
-      "quantity": "家中已有",
-      "note": "数量、部位及有机认证未知",
+      "name": {
+        "zh": "牛肉",
+        "en": "Beef",
+        "ru": "Говядина"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-19",
-      "expiry": ""
+      "expiry": "",
+      "id": "beef"
     },
     {
-      "name": "姜",
-      "quantity": "家中已有",
-      "note": "数量与品质未知",
+      "name": {
+        "zh": "姜",
+        "en": "Ginger",
+        "ru": "Имбирь"
+      },
+      "quantity": {
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
+      },
       "date": "2026-11-19",
-      "expiry": ""
+      "expiry": "",
+      "id": "ginger"
     }
   ],
   "shopping": [
     {
       "store": "Costco",
-      "name": "Kirkland Signature Organic Boneless Skinless Chicken Thighs",
-      "quantity": "约 5.5 lb · 1 包",
-      "note": "计划购买；本周用不完的分装冷冻"
+      "name": {
+        "zh": "有机去骨鸡腿肉",
+        "en": "Organic boneless chicken thighs",
+        "ru": "Органическое филе куриного бедра"
+      },
+      "quantity": {
+        "zh": "5.5 lb · 1 包",
+        "en": "5.5 lb · 1 pack",
+        "ru": "5.5 lb · 1 уп."
+      },
+      "note": {
+        "zh": "分装冷冻",
+        "en": "Freeze extra portions",
+        "ru": "Заморозить лишние порции"
+      },
+      "id": "chicken",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Organic Ground Turkey",
-      "quantity": "24 oz × 2，共 3 lb · 1 组",
-      "note": "计划购买；余量分装冷冻"
+      "name": {
+        "zh": "有机火鸡肉末",
+        "en": "Organic ground turkey",
+        "ru": "Органический фарш индейки"
+      },
+      "quantity": {
+        "zh": "24 oz × 2，共 3 lb · 1 组",
+        "en": "24 oz × 2, total 3 lb · 1 set",
+        "ru": "24 oz × 2, всего 3 lb · 1 наб."
+      },
+      "note": {
+        "zh": "分装冷冻",
+        "en": "Freeze extra portions",
+        "ru": "Заморозить лишние порции"
+      },
+      "id": "turkey",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Kirkland Signature Organic Eggs",
-      "quantity": "24 枚 · 1 盒",
-      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+      "name": {
+        "zh": "有机鸡蛋",
+        "en": "Organic eggs",
+        "ru": "Органические яйца"
+      },
+      "quantity": {
+        "zh": "24 枚 · 1 盒",
+        "en": "24 eggs · 1 box",
+        "ru": "24 шт. · 1 уп."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "eggs",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Kirkland Signature Organic Extra Firm Tofu",
-      "quantity": "16 oz × 4 · 1 组",
-      "note": "计划购买；余量按日期安排后续菜单"
+      "name": {
+        "zh": "有机老豆腐",
+        "en": "Organic extra-firm tofu",
+        "ru": "Органический твёрдый тофу"
+      },
+      "quantity": {
+        "zh": "16 oz × 4 · 1 组",
+        "en": "16 oz × 4 · 1 set",
+        "ru": "16 oz × 4 · 1 наб."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "tofu",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Kirkland Signature Organic Frozen Broccoli Florets",
-      "quantity": "1 lb × 4 · 0",
-      "note": "取消 Costco 购买；Whole Foods 已下单 365 Organic Broccoli Florets 10 oz × 2，避免重复"
+      "name": {
+        "zh": "有机番茄",
+        "en": "Organic vine tomatoes",
+        "ru": "Органические томаты на ветке"
+      },
+      "quantity": {
+        "zh": "4 lb · 1 盒",
+        "en": "4 lb · 1 box",
+        "ru": "4 lb · 1 уп."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "tomato",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Organic Tomatoes on the Vine",
-      "quantity": "4 lb · 1 盒",
-      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+      "name": {
+        "zh": "有机土豆",
+        "en": "Organic potatoes",
+        "ru": "Органический картофель"
+      },
+      "quantity": {
+        "zh": "10 lb · 1 袋",
+        "en": "10 lb · 1 bag",
+        "ru": "10 lb · 1 пак."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "potato",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Organic Baking Potatoes",
-      "quantity": "10 lb · 1 袋",
-      "note": "计划购买；查询页显示缺货，缺货则转 Whole Foods"
+      "name": {
+        "zh": "有机 Gala 苹果",
+        "en": "Organic Gala apples",
+        "ru": "Органические яблоки Гала"
+      },
+      "quantity": {
+        "zh": "3 lb · 1 袋",
+        "en": "3 lb · 1 bag",
+        "ru": "3 lb · 1 пак."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "apple",
+      "status": "buy"
     },
     {
       "store": "Costco",
-      "name": "Stemilt Artisan Organics Gala Apples",
-      "quantity": "3 lb · 1 袋",
-      "note": "计划购买；先检查家中苹果余量，足够则不买"
-    },
-    {
-      "store": "Costco",
-      "name": "Organic Bananas",
-      "quantity": "3 lb · 1 把",
-      "note": "计划购买"
-    },
-    {
-      "store": "Whole Foods",
-      "name": "Organic Purple Sweet Potatoes",
-      "quantity": "约 4–5 lb",
-      "note": "本次 Whole Foods 加购明确排除，未加购物车；后续来源待定"
-    },
-    {
-      "store": "Whole Foods",
-      "name": "Organic Baby Bok Choy",
-      "quantity": "1 Each × 3，估 0.99 lb",
-      "note": "已下单；$3.49/lb，估算 $3.46，最终按实际重量"
+      "name": {
+        "zh": "有机香蕉",
+        "en": "Organic bananas",
+        "ru": "Органические бананы"
+      },
+      "quantity": {
+        "zh": "3 lb · 1 把",
+        "en": "3 lb · 1 bunch",
+        "ru": "3 lb · 1 связка"
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "banana",
+      "status": "buy"
     },
     {
       "store": "Whole Foods",
-      "name": "Organic Napa Cabbage",
-      "quantity": "1 颗，估 2.60 lb",
-      "note": "已下单；$1.99/lb，估算 $5.17；为正式订单行，非打包后替换结果"
+      "name": {
+        "zh": "有机紫薯",
+        "en": "Organic purple sweet potatoes",
+        "ru": "Органический фиолетовый батат"
+      },
+      "quantity": {
+        "zh": "4–5 lb",
+        "en": "4–5 lb",
+        "ru": "4–5 lb"
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "sweetpotato",
+      "status": "buy"
     },
     {
       "store": "Whole Foods",
-      "name": "Organic Zucchini Squash",
-      "quantity": "2 根，估 0.94 lb",
-      "note": "已下单；$2.49/lb，估算 $2.34，最终按实际重量"
+      "name": {
+        "zh": "有机小白菜",
+        "en": "Organic baby bok choy",
+        "ru": "Органический пак-чой"
+      },
+      "quantity": {
+        "zh": "3 棵",
+        "en": "3 heads",
+        "ru": "3 шт."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "bokchoy",
+      "status": "ordered"
     },
     {
       "store": "Whole Foods",
-      "name": "Organic Rainbow Carrot Bag",
-      "quantity": "32 oz × 1",
-      "note": "已下单；$3.69；包装大于原计划 1 lb"
+      "name": {
+        "zh": "有机大白菜",
+        "en": "Organic napa cabbage",
+        "ru": "Органическая пекинская капуста"
+      },
+      "quantity": {
+        "zh": "1 颗",
+        "en": "1 head",
+        "ru": "1 шт."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "cabbage",
+      "status": "ordered"
     },
     {
       "store": "Whole Foods",
-      "name": "Organic Shiitake Mushrooms",
-      "quantity": "8 oz × 1",
-      "note": "已下单；$11.99/lb，估算 $6.00"
+      "name": {
+        "zh": "有机西葫芦",
+        "en": "Organic zucchini",
+        "ru": "Органические кабачки"
+      },
+      "quantity": {
+        "zh": "2 根",
+        "en": "2 pcs",
+        "ru": "2 шт."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "zucchini",
+      "status": "ordered"
     },
     {
       "store": "Whole Foods",
-      "name": "Organic Bartlett Pear",
-      "quantity": "2 个，估 0.94 lb",
-      "note": "已下单；$2.69/lb，估算 $2.53，最终数量比加购计划少 1 个"
+      "name": {
+        "zh": "有机彩虹胡萝卜",
+        "en": "Organic rainbow carrots",
+        "ru": "Органическая разноцветная морковь"
+      },
+      "quantity": {
+        "zh": "32 oz",
+        "en": "32 oz",
+        "ru": "32 oz"
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "carrot",
+      "status": "ordered"
     },
     {
       "store": "Whole Foods",
-      "name": "Costco 缺货替补：有机鸡蛋、番茄、土豆",
-      "quantity": "按上表规格补足",
-      "note": "仅在 Costco 缺货时购买，避免重复"
+      "name": {
+        "zh": "有机香菇",
+        "en": "Organic shiitake mushrooms",
+        "ru": "Органические грибы шиитаке"
+      },
+      "quantity": {
+        "zh": "8 oz",
+        "en": "8 oz",
+        "ru": "8 oz"
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "shiitake",
+      "status": "ordered"
+    },
+    {
+      "store": "Whole Foods",
+      "name": {
+        "zh": "有机 Bartlett 梨",
+        "en": "Organic Bartlett pears",
+        "ru": "Органические груши Бартлетт"
+      },
+      "quantity": {
+        "zh": "2 个",
+        "en": "2 pcs",
+        "ru": "2 шт."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "pear",
+      "status": "ordered"
     }
   ],
-  "trip": [
-    "Kirkland Signature Organic Boneless Skinless Chicken Thighs，约 5.5 lb，1 包。",
-    "Organic Ground Turkey，24 oz × 2，共 3 lb，1 组。",
-    "Kirkland Signature Organic Eggs，24 枚，1 盒。",
-    "Kirkland Signature Organic Extra Firm Tofu，16 oz × 4，1 组。",
-    "Organic Tomatoes on the Vine，4 lb，1 盒。",
-    "Organic Baking Potatoes，10 lb，1 袋。",
-    "Organic Bananas，3 lb，1 把。",
-    "Organic Gala Apples，3 lb：仅在家中苹果余量不足时买。",
-    "Organic Purple Sweet Potatoes：只有包装同时明确写 Organic 和 Purple Sweet Potatoes 时才买约 4–5 lb；普通橙心 sweet potatoes 不替代紫薯。",
-    "西兰花及其他 Whole Foods 已下单的蔬果，避免重复。",
-    "牛肉、姜、鸡翅、菠菜、南瓜、燕麦、面条、牛油果油、宝宝酸奶：家中已有或本轮无需补购。",
-    "没有明确 Organic 标识的食品，以及无法核验为有机的手抓饼。"
-  ],
-  "updatedAt": "2026-11-19T13:34:22.385066-08:00"
+  "inventoryModel": {
+    "version": 1,
+    "timeZone": "America/Los_Angeles",
+    "items": [
+      {
+        "id": "yogurt",
+        "name": {
+          "zh": "宝宝酸奶",
+          "en": "Baby yogurt",
+          "ru": "Детский йогурт"
+        },
+        "unit": "piece",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "oats",
+        "name": {
+          "zh": "燕麦",
+          "en": "Oats",
+          "ru": "Овсяные хлопья"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "noodles",
+        "name": {
+          "zh": "面条",
+          "en": "Noodles",
+          "ru": "Лапша"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "oil",
+        "name": {
+          "zh": "牛油果油",
+          "en": "Avocado oil",
+          "ru": "Масло авокадо"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "wings",
+        "name": {
+          "zh": "有机鸡翅",
+          "en": "Organic chicken wings",
+          "ru": "Органические куриные крылышки"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "pork",
+        "name": {
+          "zh": "猪绞肉",
+          "en": "Ground pork",
+          "ru": "Свиной фарш"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "icecream",
+        "name": {
+          "zh": "冰淇淋",
+          "en": "Ice cream",
+          "ru": "Мороженое"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "meatballs",
+        "name": {
+          "zh": "牛肉丸",
+          "en": "Beef meatballs",
+          "ru": "Говяжьи фрикадельки"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "eggs",
+        "name": {
+          "zh": "鸡蛋",
+          "en": "Eggs",
+          "ru": "Яйца"
+        },
+        "unit": "piece",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "grapes",
+        "name": {
+          "zh": "葡萄",
+          "en": "Grapes",
+          "ru": "Виноград"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "persimmons",
+        "name": {
+          "zh": "柿子",
+          "en": "Persimmons",
+          "ru": "Хурма"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "avocado",
+        "name": {
+          "zh": "牛油果",
+          "en": "Avocados",
+          "ru": "Авокадо"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "apple",
+        "name": {
+          "zh": "苹果",
+          "en": "Apples",
+          "ru": "Яблоки"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "scallion",
+        "name": {
+          "zh": "葱",
+          "en": "Scallions",
+          "ru": "Зелёный лук"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "spinach",
+        "name": {
+          "zh": "菠菜",
+          "en": "Spinach",
+          "ru": "Шпинат"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "pumpkin",
+        "name": {
+          "zh": "南瓜",
+          "en": "Pumpkin",
+          "ru": "Тыква"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "chili",
+        "name": {
+          "zh": "红辣椒",
+          "en": "Red chilies",
+          "ru": "Красный перец чили"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "salmon",
+        "name": {
+          "zh": "三文鱼",
+          "en": "Salmon",
+          "ru": "Лосось"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "beef",
+        "name": {
+          "zh": "牛肉",
+          "en": "Beef",
+          "ru": "Говядина"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "ginger",
+        "name": {
+          "zh": "姜",
+          "en": "Ginger",
+          "ru": "Имбирь"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "chicken",
+        "name": {
+          "zh": "有机去骨鸡腿肉",
+          "en": "Organic boneless chicken thighs",
+          "ru": "Органическое филе куриного бедра"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "turkey",
+        "name": {
+          "zh": "有机火鸡肉末",
+          "en": "Organic ground turkey",
+          "ru": "Органический фарш индейки"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "tofu",
+        "name": {
+          "zh": "有机老豆腐",
+          "en": "Organic extra-firm tofu",
+          "ru": "Органический твёрдый тофу"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "broccoli",
+        "name": {
+          "zh": "有机冷冻西兰花",
+          "en": "Organic frozen broccoli",
+          "ru": "Органическая замороженная брокколи"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "tomato",
+        "name": {
+          "zh": "有机番茄",
+          "en": "Organic vine tomatoes",
+          "ru": "Органические томаты на ветке"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "potato",
+        "name": {
+          "zh": "有机土豆",
+          "en": "Organic potatoes",
+          "ru": "Органический картофель"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "banana",
+        "name": {
+          "zh": "有机香蕉",
+          "en": "Organic bananas",
+          "ru": "Органические бананы"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "sweetpotato",
+        "name": {
+          "zh": "有机紫薯",
+          "en": "Organic purple sweet potatoes",
+          "ru": "Органический фиолетовый батат"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "bokchoy",
+        "name": {
+          "zh": "有机小白菜",
+          "en": "Organic baby bok choy",
+          "ru": "Органический пак-чой"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "cabbage",
+        "name": {
+          "zh": "有机大白菜",
+          "en": "Organic napa cabbage",
+          "ru": "Органическая пекинская капуста"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "zucchini",
+        "name": {
+          "zh": "有机西葫芦",
+          "en": "Organic zucchini",
+          "ru": "Органические кабачки"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "carrot",
+        "name": {
+          "zh": "有机彩虹胡萝卜",
+          "en": "Organic rainbow carrots",
+          "ru": "Органическая разноцветная морковь"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "shiitake",
+        "name": {
+          "zh": "有机香菇",
+          "en": "Organic shiitake mushrooms",
+          "ru": "Органические грибы шиитаке"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "pear",
+        "name": {
+          "zh": "有机 Bartlett 梨",
+          "en": "Organic Bartlett pears",
+          "ru": "Органические груши Бартлетт"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "pancake",
+        "name": {
+          "en": "Scallion pancakes",
+          "zh": "手抓饼",
+          "ru": "Слоёные лепёшки"
+        },
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00",
+        "unit": "piece"
+      }
+    ],
+    "meals": [
+      {
+        "id": "2026-11-19-breakfast",
+        "type": "meal",
+        "at": "2026-11-19T10:00:00-08:00",
+        "uses": {
+          "oats": 20,
+          "apple": 50,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-19-lunch",
+        "type": "meal",
+        "at": "2026-11-19T14:00:00-08:00",
+        "uses": {
+          "spinach": 20,
+          "tofu": 30,
+          "eggs": 1,
+          "pumpkin": 60
+        }
+      },
+      {
+        "id": "2026-11-19-dinner",
+        "type": "meal",
+        "at": "2026-11-19T21:00:00-08:00",
+        "uses": {
+          "beef": 650,
+          "tomato": 500,
+          "broccoli": 450,
+          "potato": 850,
+          "oil": 20
+        }
+      },
+      {
+        "id": "2026-11-20-breakfast",
+        "type": "meal",
+        "at": "2026-11-20T10:00:00-08:00",
+        "uses": {
+          "avocado": 40,
+          "oats": 20,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-20-lunch",
+        "type": "meal",
+        "at": "2026-11-20T14:00:00-08:00",
+        "uses": {
+          "chicken": 30,
+          "carrot": 25,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-20-dinner",
+        "type": "meal",
+        "at": "2026-11-20T21:00:00-08:00",
+        "uses": {
+          "wings": 1000,
+          "chicken": 30,
+          "bokchoy": 450,
+          "sweetpotato": 850,
+          "ginger": 15,
+          "scallion": 20,
+          "oil": 15
+        }
+      },
+      {
+        "id": "2026-11-21-breakfast",
+        "type": "meal",
+        "at": "2026-11-21T10:00:00-08:00",
+        "uses": {
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-21-lunch",
+        "type": "meal",
+        "at": "2026-11-21T14:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-21-dinner",
+        "type": "meal",
+        "at": "2026-11-21T21:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-22-breakfast",
+        "type": "meal",
+        "at": "2026-11-22T10:00:00-08:00",
+        "uses": {
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-22-lunch",
+        "type": "meal",
+        "at": "2026-11-22T14:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-22-dinner",
+        "type": "meal",
+        "at": "2026-11-22T21:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-23-breakfast",
+        "type": "meal",
+        "at": "2026-11-23T10:00:00-08:00",
+        "uses": {
+          "apple": 50,
+          "oats": 20,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-23-lunch",
+        "type": "meal",
+        "at": "2026-11-23T14:00:00-08:00",
+        "uses": {
+          "beef": 30,
+          "carrot": 25,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-23-dinner",
+        "type": "meal",
+        "at": "2026-11-23T21:00:00-08:00",
+        "uses": {
+          "chicken": 650,
+          "shiitake": 150,
+          "eggs": 4,
+          "bokchoy": 450,
+          "potato": 850,
+          "oil": 15
+        }
+      },
+      {
+        "id": "2026-11-24-breakfast",
+        "type": "meal",
+        "at": "2026-11-24T10:00:00-08:00",
+        "uses": {
+          "avocado": 40,
+          "oats": 20,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-24-lunch",
+        "type": "meal",
+        "at": "2026-11-24T14:00:00-08:00",
+        "uses": {
+          "beef": 30,
+          "tomato": 40,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-24-dinner",
+        "type": "meal",
+        "at": "2026-11-24T21:00:00-08:00",
+        "uses": {
+          "turkey": 450,
+          "eggs": 5,
+          "cabbage": 450,
+          "potato": 850,
+          "oil": 15
+        }
+      },
+      {
+        "id": "2026-11-25-breakfast",
+        "type": "meal",
+        "at": "2026-11-25T10:00:00-08:00",
+        "uses": {
+          "pumpkin": 50,
+          "oats": 20,
+          "pear": 50,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-25-lunch",
+        "type": "meal",
+        "at": "2026-11-25T14:00:00-08:00",
+        "uses": {
+          "beef": 30,
+          "zucchini": 30,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-25-dinner",
+        "type": "meal",
+        "at": "2026-11-25T21:00:00-08:00",
+        "uses": {
+          "tomato": 450,
+          "eggs": 7,
+          "shiitake": 150,
+          "tofu": 450,
+          "broccoli": 450,
+          "sweetpotato": 850,
+          "oil": 20
+        }
+      }
+    ],
+    "adjustments": [],
+    "portionBasis": "Planning recipe amounts: raw edible grams, four adult dinner portions including next-day lunch, plus baby; egg/pancake/yogurt in pieces. Starting quantities await initial setup."
+  },
+  "updatedAt": "2026-11-19T13:58:45.856016-08:00"
 }
