@@ -103,9 +103,9 @@
     {
       "date": "2026-11-23",
       "dinner": {
-        "zh": "香菇蒸鸡腿肉、蒸蛋、炒小白菜、蒸土豆",
-        "en": "Steamed chicken with shiitake, steamed egg, bok choy & potatoes",
-        "ru": "Курица с шиитаке на пару, паровой омлет, пак-чой и картофель"
+        "zh": "香菇蒸鸡腿肉、蒸蛋、炒大白菜、蒸土豆",
+        "en": "Steamed chicken with shiitake, steamed egg, napa cabbage & potatoes",
+        "ru": "Курица с шиитаке на пару, паровой омлет, пекинская капуста и картофель"
       },
       "baby": [
         {
@@ -119,18 +119,18 @@
           "ru": "Мягкая лапша с говядиной и морковью"
         },
         {
-          "zh": "香菇鸡腿肉碎、小白菜碎、土豆泥",
-          "en": "Minced chicken with shiitake, bok choy & mashed potatoes",
-          "ru": "Измельчённая курица с шиитаке, пак-чой и картофельное пюре"
+          "zh": "香菇鸡腿肉碎、大白菜碎、土豆泥",
+          "en": "Minced chicken with shiitake, napa cabbage & mashed potatoes",
+          "ru": "Измельчённая курица с шиитаке, пекинская капуста и картофельное пюре"
         }
       ]
     },
     {
       "date": "2026-11-24",
       "dinner": {
-        "zh": "火鸡肉末蒸蛋、清炒卷心菜、蒸土豆",
-        "en": "Steamed egg with ground turkey, sautéed cabbage & potatoes",
-        "ru": "Паровой омлет с фаршем индейки, капуста и картофель"
+        "zh": "火鸡肉末蒸蛋、清炒大白菜、蒸土豆",
+        "en": "Steamed egg with ground turkey, sautéed napa cabbage & potatoes",
+        "ru": "Паровой омлет с фаршем индейки, пекинская капуста и картофель"
       },
       "baby": [
         {
@@ -144,9 +144,9 @@
           "ru": "Мягкая лапша с томатом и говядиной"
         },
         {
-          "zh": "火鸡肉末蒸蛋、卷心菜碎、土豆泥",
-          "en": "Steamed egg with turkey, soft cabbage & mashed potatoes",
-          "ru": "Паровой омлет с индейкой, мягкая капуста и картофельное пюре"
+          "zh": "火鸡肉末蒸蛋、大白菜碎、土豆泥",
+          "en": "Steamed egg with turkey, soft napa cabbage & mashed potatoes",
+          "ru": "Паровой омлет с индейкой, мягкая пекинская капуста и картофельное пюре"
         }
       ]
     },
@@ -1340,8 +1340,8 @@
           "ru": "Органический пак-чой"
         },
         "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 450,
+        "asOf": "2026-11-19T16:00:00-08:00"
       },
       {
         "id": "cabbage",
@@ -1351,8 +1351,8 @@
           "ru": "Органическая пекинская капуста"
         },
         "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 1180,
+        "asOf": "2026-11-19T16:00:00-08:00"
       },
       {
         "id": "zucchini",
@@ -1552,7 +1552,7 @@
           "chicken": 650,
           "shiitake": 150,
           "eggs": 4,
-          "bokchoy": 450,
+          "cabbage": 450,
           "potato": 850,
           "oil": 15
         }
@@ -1632,5 +1632,5 @@
     "adjustments": [],
     "portionBasis": "Planning recipe amounts: raw edible grams, four adult dinner portions including next-day lunch, plus baby; egg/pancake/yogurt in pieces. Starting quantities await initial setup."
   },
-  "updatedAt": "2026-11-20T10:57:38.643793-08:00"
+  "updatedAt": "2026-11-20T11:12:58.645820-08:00"
 }
