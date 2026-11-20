@@ -189,7 +189,7 @@
         "ru": "16 стаканчиков"
       },
       "date": "2026-11-17",
-      "expiry": "best before 2026-12-05",
+      "expiry": "",
       "id": "yogurt"
     },
     {
@@ -239,9 +239,9 @@
     },
     {
       "name": {
-        "zh": "有机鸡翅",
-        "en": "Organic chicken wings",
-        "ru": "Органические куриные крылышки"
+        "zh": "鸡翅",
+        "en": "Chicken wings",
+        "ru": "Куриные крылышки"
       },
       "quantity": {
         "zh": "4 包",
@@ -319,11 +319,11 @@
         "ru": "Виноград"
       },
       "quantity": {
-        "zh": "1 袋",
-        "en": "1 bag",
-        "ru": "1 пак."
+        "zh": "2 份",
+        "en": "2 portion",
+        "ru": "2 порция"
       },
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "expiry": "",
       "id": "grapes"
     },
@@ -334,11 +334,11 @@
         "ru": "Хурма"
       },
       "quantity": {
-        "zh": "有库存",
-        "en": "In stock",
-        "ru": "В наличии"
+        "zh": "1 盒",
+        "en": "1 box",
+        "ru": "1 уп."
       },
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "expiry": "",
       "id": "persimmons"
     },
@@ -349,11 +349,11 @@
         "ru": "Авокадо"
       },
       "quantity": {
-        "zh": "2 个",
-        "en": "2 pcs",
-        "ru": "2 шт."
+        "zh": "8 个",
+        "en": "8 pcs",
+        "ru": "8 шт."
       },
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "expiry": "",
       "id": "avocado"
     },
@@ -364,13 +364,58 @@
         "ru": "Яблоки"
       },
       "quantity": {
-        "zh": "1 个",
-        "en": "1",
-        "ru": "1 шт."
+        "zh": "3 lb 1 袋 + 1 个",
+        "en": "3 lb 1 bag + 1",
+        "ru": "3 lb 1 пак. + 1 шт."
       },
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "expiry": "",
       "id": "apple"
+    },
+    {
+      "name": {
+        "zh": "香蕉",
+        "en": "Bananas",
+        "ru": "Бананы"
+      },
+      "quantity": {
+        "zh": "1 把",
+        "en": "1 bunch",
+        "ru": "1 связка"
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "banana"
+    },
+    {
+      "name": {
+        "zh": "柚子",
+        "en": "Pummelos",
+        "ru": "Помело"
+      },
+      "quantity": {
+        "zh": "4 个",
+        "en": "4 pcs",
+        "ru": "4 шт."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "pummelos"
+    },
+    {
+      "name": {
+        "zh": "梨",
+        "en": "Pears",
+        "ru": "Груши"
+      },
+      "quantity": {
+        "zh": "2 个",
+        "en": "2 pcs",
+        "ru": "2 шт."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "pear"
     },
     {
       "name": {
@@ -394,9 +439,9 @@
         "ru": "Шпинат"
       },
       "quantity": {
-        "zh": "有库存",
-        "en": "In stock",
-        "ru": "В наличии"
+        "zh": "1 盒",
+        "en": "1 box",
+        "ru": "1 уп."
       },
       "date": "2026-11-18",
       "expiry": "",
@@ -434,6 +479,186 @@
     },
     {
       "name": {
+        "zh": "香菇",
+        "en": "Shiitake mushrooms",
+        "ru": "Грибы шиитаке"
+      },
+      "quantity": {
+        "zh": "8 oz 1 盒",
+        "en": "8 oz 1 box",
+        "ru": "8 oz 1 уп."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "shiitake"
+    },
+    {
+      "name": {
+        "zh": "大白菜",
+        "en": "Napa cabbage",
+        "ru": "Пекинская капуста"
+      },
+      "quantity": {
+        "zh": "1 颗",
+        "en": "1 head",
+        "ru": "1 шт."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "cabbage"
+    },
+    {
+      "name": {
+        "zh": "西葫芦",
+        "en": "Zucchini",
+        "ru": "Кабачки"
+      },
+      "quantity": {
+        "zh": "2 根",
+        "en": "2 pcs",
+        "ru": "2 шт."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "zucchini"
+    },
+    {
+      "name": {
+        "zh": "小白菜",
+        "en": "Baby bok choy",
+        "ru": "Пак-чой"
+      },
+      "quantity": {
+        "zh": "3 颗",
+        "en": "3 heads",
+        "ru": "3 шт."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "bokchoy"
+    },
+    {
+      "name": {
+        "zh": "彩虹胡萝卜",
+        "en": "Rainbow carrots",
+        "ru": "Разноцветная морковь"
+      },
+      "quantity": {
+        "zh": "32 oz 1 袋",
+        "en": "32 oz 1 bag",
+        "ru": "32 oz 1 пак."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "carrot"
+    },
+    {
+      "name": {
+        "zh": "冷冻西兰花",
+        "en": "Frozen broccoli",
+        "ru": "Замороженная брокколи"
+      },
+      "quantity": {
+        "zh": "10 oz × 2 包",
+        "en": "10 oz × 2 packs",
+        "ru": "10 oz × 2 уп."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "broccoli"
+    },
+    {
+      "name": {
+        "zh": "土豆",
+        "en": "Potatoes",
+        "ru": "Картофель"
+      },
+      "quantity": {
+        "zh": "10 lb 1 袋",
+        "en": "10 lb 1 bag",
+        "ru": "10 lb 1 пак."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "potato"
+    },
+    {
+      "name": {
+        "zh": "红薯",
+        "en": "Sweet potatoes",
+        "ru": "Батат"
+      },
+      "quantity": {
+        "zh": "5 lb 1 袋",
+        "en": "5 lb 1 bag",
+        "ru": "5 lb 1 пак."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "sweetpotato"
+    },
+    {
+      "name": {
+        "zh": "鸡腿肉",
+        "en": "Boneless chicken thighs",
+        "ru": "Филе куриного бедра"
+      },
+      "quantity": {
+        "zh": "1 大包",
+        "en": "1 large pack",
+        "ru": "1 большая уп."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "chicken"
+    },
+    {
+      "name": {
+        "zh": "火鸡肉末",
+        "en": "Ground turkey",
+        "ru": "Фарш индейки"
+      },
+      "quantity": {
+        "zh": "3 lb",
+        "en": "3 lb",
+        "ru": "3 lb"
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "turkey"
+    },
+    {
+      "name": {
+        "zh": "猪肋排",
+        "en": "Pork ribs",
+        "ru": "Свиные рёбра"
+      },
+      "quantity": {
+        "zh": "1 包",
+        "en": "1 pack",
+        "ru": "1 уп."
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "ribs"
+    },
+    {
+      "name": {
+        "zh": "牛肉",
+        "en": "Beef",
+        "ru": "Говядина"
+      },
+      "quantity": {
+        "zh": "1 包+",
+        "en": "1 pack+",
+        "ru": "1 уп.+"
+      },
+      "date": "2026-11-19",
+      "expiry": "",
+      "id": "beef"
+    },
+    {
+      "name": {
         "zh": "三文鱼",
         "en": "Salmon",
         "ru": "Лосось"
@@ -449,134 +674,14 @@
     },
     {
       "name": {
-        "zh": "牛肉",
-        "en": "Beef",
-        "ru": "Говядина"
+        "zh": "鳕鱼片",
+        "en": "Cod fillets",
+        "ru": "Филе трески"
       },
       "quantity": {
-        "zh": "有库存",
-        "en": "In stock",
-        "ru": "В наличии"
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "beef"
-    },
-    {
-      "name": {
-        "zh": "姜",
-        "en": "Ginger",
-        "ru": "Имбирь"
-      },
-      "quantity": {
-        "zh": "有库存",
-        "en": "In stock",
-        "ru": "В наличии"
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "ginger"
-    },
-    {
-      "name": {
-        "zh": "有机无籽青葡萄",
-        "en": "Organic green seedless grapes",
-        "ru": "Органический зелёный виноград без косточек"
-      },
-      "quantity": {
-        "zh": "1 份",
-        "en": "1 portion",
-        "ru": "1 порция"
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "organic-grapes"
-    },
-    {
-      "name": {
-        "zh": "有机香菇",
-        "en": "Organic shiitake mushrooms",
-        "ru": "Органические грибы шиитаке"
-      },
-      "quantity": {
-        "zh": "8 oz 盒",
-        "en": "8 oz box",
-        "ru": "8 oz уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "shiitake"
-    },
-    {
-      "name": {
-        "zh": "有机大白菜",
-        "en": "Organic napa cabbage",
-        "ru": "Органическая пекинская капуста"
-      },
-      "quantity": {
-        "zh": "1 颗",
-        "en": "1 head",
-        "ru": "1 шт."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "cabbage"
-    },
-    {
-      "name": {
-        "zh": "有机 Bartlett 梨",
-        "en": "Organic Bartlett pears",
-        "ru": "Органические груши Бартлетт"
-      },
-      "quantity": {
-        "zh": "2 个",
-        "en": "2 pcs",
-        "ru": "2 шт."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "pear"
-    },
-    {
-      "name": {
-        "zh": "有机西葫芦",
-        "en": "Organic zucchini",
-        "ru": "Органические кабачки"
-      },
-      "quantity": {
-        "zh": "2 根",
-        "en": "2 pcs",
-        "ru": "2 шт."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "zucchini"
-    },
-    {
-      "name": {
-        "zh": "有机小白菜",
-        "en": "Organic baby bok choy",
-        "ru": "Органический пак-чой"
-      },
-      "quantity": {
-        "zh": "3 颗",
-        "en": "3 heads",
-        "ru": "3 шт."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "bokchoy"
-    },
-    {
-      "name": {
-        "zh": "365 鳕鱼片",
-        "en": "365 cod fillets",
-        "ru": "Филе трески 365"
-      },
-      "quantity": {
-        "zh": "10.5 oz 包",
-        "en": "10.5 oz pack",
-        "ru": "10.5 oz уп."
+        "zh": "10.5 oz 1 包",
+        "en": "10.5 oz 1 pack",
+        "ru": "10.5 oz 1 уп."
       },
       "date": "2026-11-19",
       "expiry": "",
@@ -584,48 +689,18 @@
     },
     {
       "name": {
-        "zh": "有机彩虹胡萝卜",
-        "en": "Organic rainbow carrots",
-        "ru": "Органическая разноцветная морковь"
+        "zh": "番茄",
+        "en": "Tomatoes",
+        "ru": "Томаты"
       },
       "quantity": {
-        "zh": "32 oz 袋",
-        "en": "32 oz bag",
-        "ru": "32 oz пак."
+        "zh": "2 lb × 2 盒",
+        "en": "2 lb × 2 boxes",
+        "ru": "2 lb × 2 уп."
       },
       "date": "2026-11-19",
       "expiry": "",
-      "id": "carrot"
-    },
-    {
-      "name": {
-        "zh": "有机冷冻西兰花",
-        "en": "Organic frozen broccoli",
-        "ru": "Органическая замороженная брокколи"
-      },
-      "quantity": {
-        "zh": "10 oz × 2 包",
-        "en": "10 oz × 2 packs",
-        "ru": "10 oz × 2 уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "broccoli"
-    },
-    {
-      "name": {
-        "zh": "有机去骨鸡腿肉",
-        "en": "Organic boneless skinless chicken thighs",
-        "ru": "Органическое филе куриного бедра"
-      },
-      "quantity": {
-        "zh": "1 大包",
-        "en": "1 large pack",
-        "ru": "1 большая уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "chicken"
+      "id": "tomato"
     },
     {
       "name": {
@@ -644,168 +719,18 @@
     },
     {
       "name": {
-        "zh": "柚子",
-        "en": "Pummelos",
-        "ru": "Помело"
+        "zh": "姜",
+        "en": "Ginger",
+        "ru": "Имбирь"
       },
       "quantity": {
-        "zh": "4 个",
-        "en": "4 pcs",
-        "ru": "4 шт."
+        "zh": "有库存",
+        "en": "In stock",
+        "ru": "В наличии"
       },
       "date": "2026-11-19",
       "expiry": "",
-      "id": "pummelos"
-    },
-    {
-      "name": {
-        "zh": "St. Louis 猪肋排",
-        "en": "St. Louis pork ribs",
-        "ru": "Свиные рёбра Сент-Луис"
-      },
-      "quantity": {
-        "zh": "1 包",
-        "en": "1 pack",
-        "ru": "1 уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "ribs"
-    },
-    {
-      "name": {
-        "zh": "有机 Gala 苹果",
-        "en": "Organic Gala apples",
-        "ru": "Органические яблоки Гала"
-      },
-      "quantity": {
-        "zh": "3 lb 袋",
-        "en": "3 lb bag",
-        "ru": "3 lb пак."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "gala-apples"
-    },
-    {
-      "name": {
-        "zh": "有机火鸡肉末",
-        "en": "Organic ground turkey",
-        "ru": "Органический фарш индейки"
-      },
-      "quantity": {
-        "zh": "1 组",
-        "en": "1 set",
-        "ru": "1 наб."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "turkey"
-    },
-    {
-      "name": {
-        "zh": "Campari 番茄",
-        "en": "Campari tomatoes",
-        "ru": "Томаты Кампари"
-      },
-      "quantity": {
-        "zh": "2 lb × 2 盒",
-        "en": "2 lb × 2 boxes",
-        "ru": "2 lb × 2 уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "campari-tomatoes"
-    },
-    {
-      "name": {
-        "zh": "Gold 土豆",
-        "en": "Gold potatoes",
-        "ru": "Жёлтый картофель"
-      },
-      "quantity": {
-        "zh": "10 lb 袋",
-        "en": "10 lb bag",
-        "ru": "10 lb пак."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "gold-potatoes"
-    },
-    {
-      "name": {
-        "zh": "红薯",
-        "en": "Sweet potatoes",
-        "ru": "Батат"
-      },
-      "quantity": {
-        "zh": "5 lb 袋",
-        "en": "5 lb bag",
-        "ru": "5 lb пак."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "sweet-potatoes"
-    },
-    {
-      "name": {
-        "zh": "有机香蕉",
-        "en": "Organic bananas",
-        "ru": "Органические бананы"
-      },
-      "quantity": {
-        "zh": "1 把",
-        "en": "1 bunch",
-        "ru": "1 связка"
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "banana"
-    },
-    {
-      "name": {
-        "zh": "有机柿子",
-        "en": "Organic persimmons",
-        "ru": "Органическая хурма"
-      },
-      "quantity": {
-        "zh": "1 盒",
-        "en": "1 box",
-        "ru": "1 уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "organic-persimmons"
-    },
-    {
-      "name": {
-        "zh": "牛腹肉",
-        "en": "Beef flap meat",
-        "ru": "Говяжий флэп-стейк"
-      },
-      "quantity": {
-        "zh": "1 包",
-        "en": "1 pack",
-        "ru": "1 уп."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "flap-meat"
-    },
-    {
-      "name": {
-        "zh": "有机牛油果",
-        "en": "Organic avocados",
-        "ru": "Органические авокадо"
-      },
-      "quantity": {
-        "zh": "6 个 袋",
-        "en": "6 pcs bag",
-        "ru": "6 шт. пак."
-      },
-      "date": "2026-11-19",
-      "expiry": "",
-      "id": "organic-avocados"
+      "id": "ginger"
     }
   ],
   "shopping": [
@@ -1722,5 +1647,5 @@
     "adjustments": [],
     "portionBasis": "Planning recipe amounts: raw edible grams, four adult dinner portions including next-day lunch, plus baby; egg/pancake/yogurt in pieces. Starting quantities await initial setup."
   },
-  "updatedAt": "2026-11-19T16:16:13.099048-08:00"
+  "updatedAt": "2026-11-19T16:30:22.528464-08:00"
 }
