@@ -244,9 +244,9 @@
         "ru": "Куриные крылышки"
       },
       "quantity": {
-        "zh": "4 包",
-        "en": "4 packs",
-        "ru": "4 уп."
+        "zh": "旧库存 2 包 + 新购 5.15 kg",
+        "en": "旧库存 2 packs + 新购 5.15 kg",
+        "ru": "旧库存 2 уп. + 新购 5.15 kg"
       },
       "date": "2026-11-19",
       "expiry": "",
@@ -634,9 +634,9 @@
         "ru": "Говядина"
       },
       "quantity": {
-        "zh": "1 包+",
-        "en": "1 pack+",
-        "ru": "1 уп.+"
+        "zh": "原有冷冻货 + 新购 1 包候选 1.61 kg",
+        "en": "原有冷冻货 + 新购 1 pack候选 1.61 kg",
+        "ru": "原有冷冻货 + 新购 1 уп.候选 1.61 kg"
       },
       "date": "2026-11-19",
       "expiry": "",
@@ -1087,7 +1087,7 @@
           "ru": "Органические куриные крылышки"
         },
         "unit": "g",
-        "quantity": null,
+        "quantity": 5148.27,
         "asOf": "2026-11-19T00:00:00-08:00"
       },
       {
@@ -1252,7 +1252,7 @@
           "ru": "Органическое филе куриного бедра"
         },
         "unit": "g",
-        "quantity": null,
+        "quantity": 2653.52,
         "asOf": "2026-11-19T00:00:00-08:00"
       },
       {
@@ -1263,7 +1263,7 @@
           "ru": "Органический фарш индейки"
         },
         "unit": "g",
-        "quantity": null,
+        "quantity": 1360.78,
         "asOf": "2026-11-19T00:00:00-08:00"
       },
       {
@@ -1473,10 +1473,10 @@
         "type": "meal",
         "at": "2026-11-20T21:00:00-08:00",
         "uses": {
-          "wings": 1000,
+          "wings": 770,
           "chicken": 30,
           "bokchoy": 450,
-          "sweetpotato": 850,
+          "sweetpotato": 650,
           "ginger": 15,
           "scallion": 20,
           "oil": 15
@@ -1630,7 +1630,16 @@
       }
     ],
     "adjustments": [],
-    "portionBasis": "Planning recipe amounts: raw edible grams, four adult dinner portions including next-day lunch, plus baby; egg/pancake/yogurt in pieces. Starting quantities await initial setup."
+    "dailyMinimumUses": [
+      {
+        "id": "daily-eggs-minimum",
+        "item": "eggs",
+        "quantity": 4,
+        "startDate": "2026-11-20",
+        "time": "23:59"
+      }
+    ],
+    "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-20T11:12:58.645820-08:00"
+  "updatedAt": "2026-11-20T11:25:00.874064-08:00"
 }
