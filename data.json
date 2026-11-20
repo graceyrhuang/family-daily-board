@@ -184,41 +184,41 @@
         "ru": "Детский йогурт"
       },
       "quantity": {
-        "zh": "16 瓶",
-        "en": "16 cups",
-        "ru": "16 стаканчиков"
+        "zh": "10 瓶",
+        "en": "10 cups",
+        "ru": "10 стаканчиков"
       },
-      "date": "2026-11-17",
+      "date": "2026-11-20",
       "expiry": "",
       "id": "yogurt"
     },
     {
       "name": {
-        "zh": "燕麦",
-        "en": "Oats",
-        "ru": "Овсяные хлопья"
+        "zh": "宝宝燕麦",
+        "en": "Baby oatmeal",
+        "ru": "Детская овсяная каша"
       },
       "quantity": {
-        "zh": "充足",
-        "en": "Plenty",
-        "ru": "Достаточно"
+        "zh": "4 盒",
+        "en": "4 boxes",
+        "ru": "4 уп."
       },
-      "date": "2026-11-17",
+      "date": "2026-11-20",
       "expiry": "",
       "id": "oats"
     },
     {
       "name": {
-        "zh": "面条",
-        "en": "Noodles",
-        "ru": "Лапша"
+        "zh": "宝宝面",
+        "en": "Baby noodles",
+        "ru": "Детская лапша"
       },
       "quantity": {
-        "zh": "充足",
-        "en": "Plenty",
-        "ru": "Достаточно"
+        "zh": "3 袋",
+        "en": "3 bags",
+        "ru": "3 пак."
       },
-      "date": "2026-11-17",
+      "date": "2026-11-20",
       "expiry": "",
       "id": "noodles"
     },
@@ -284,31 +284,16 @@
     },
     {
       "name": {
-        "zh": "牛肉丸",
-        "en": "Beef meatballs",
-        "ru": "Говяжьи фрикадельки"
-      },
-      "quantity": {
-        "zh": "1 盒",
-        "en": "1 box",
-        "ru": "1 уп."
-      },
-      "date": "2026-11-18",
-      "expiry": "",
-      "id": "meatballs"
-    },
-    {
-      "name": {
         "zh": "鸡蛋",
         "en": "Eggs",
         "ru": "Яйца"
       },
       "quantity": {
-        "zh": "4 枚",
-        "en": "4 eggs",
-        "ru": "4 шт."
+        "zh": "56 枚",
+        "en": "56 eggs",
+        "ru": "56 шт."
       },
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "expiry": "",
       "id": "eggs"
     },
@@ -704,16 +689,16 @@
     },
     {
       "name": {
-        "zh": "无乳糖商品",
-        "en": "Lactose-free item",
-        "ru": "Безлактозный продукт"
+        "zh": "无乳糖牛奶",
+        "en": "Lactose-free milk",
+        "ru": "Безлактозное молоко"
       },
       "quantity": {
-        "zh": "1 组",
-        "en": "1 set",
-        "ru": "1 наб."
+        "zh": "3 盒",
+        "en": "3 boxes",
+        "ru": "3 уп."
       },
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "expiry": "",
       "id": "lactose-free"
     },
@@ -1047,30 +1032,30 @@
           "ru": "Детский йогурт"
         },
         "unit": "piece",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 10,
+        "asOf": "2026-11-20T10:55:00-08:00"
       },
       {
         "id": "oats",
         "name": {
-          "zh": "燕麦",
-          "en": "Oats",
-          "ru": "Овсяные хлопья"
+          "zh": "宝宝燕麦",
+          "en": "Baby oatmeal",
+          "ru": "Детская овсяная каша"
         },
         "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 908,
+        "asOf": "2026-11-20T10:55:00-08:00"
       },
       {
         "id": "noodles",
         "name": {
-          "zh": "面条",
-          "en": "Noodles",
-          "ru": "Лапша"
+          "zh": "宝宝面",
+          "en": "Baby noodles",
+          "ru": "Детская лапша"
         },
         "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 807,
+        "asOf": "2026-11-20T10:55:00-08:00"
       },
       {
         "id": "oil",
@@ -1082,6 +1067,17 @@
         "unit": "g",
         "quantity": null,
         "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
+        "id": "lactose-free",
+        "name": {
+          "zh": "无乳糖牛奶",
+          "en": "Lactose-free milk",
+          "ru": "Безлактозное молоко"
+        },
+        "unit": "piece",
+        "quantity": 3,
+        "asOf": "2026-11-20T10:55:00-08:00"
       },
       {
         "id": "wings",
@@ -1117,17 +1113,6 @@
         "asOf": "2026-11-19T00:00:00-08:00"
       },
       {
-        "id": "meatballs",
-        "name": {
-          "zh": "牛肉丸",
-          "en": "Beef meatballs",
-          "ru": "Говяжьи фрикадельки"
-        },
-        "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
-      },
-      {
         "id": "eggs",
         "name": {
           "zh": "鸡蛋",
@@ -1135,8 +1120,8 @@
           "ru": "Яйца"
         },
         "unit": "piece",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 56,
+        "asOf": "2026-11-20T10:55:00-08:00"
       },
       {
         "id": "grapes",
@@ -1647,5 +1632,5 @@
     "adjustments": [],
     "portionBasis": "Planning recipe amounts: raw edible grams, four adult dinner portions including next-day lunch, plus baby; egg/pancake/yogurt in pieces. Starting quantities await initial setup."
   },
-  "updatedAt": "2026-11-20T10:48:22.685418-08:00"
+  "updatedAt": "2026-11-20T10:57:38.643793-08:00"
 }
