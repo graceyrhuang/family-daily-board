@@ -1,106 +1,6 @@
 {
   "menus": [
     {
-      "date": "2026-11-19",
-      "dinner": {
-        "zh": "番茄炖牛肉、清炒西兰花、蒸土豆",
-        "en": "Tomato beef stew, sautéed broccoli & steamed potatoes",
-        "ru": "Говядина с томатами, брокколи и картофель на пару"
-      },
-      "baby": [
-        {
-          "zh": "苹果燕麦糊、酸奶",
-          "en": "Apple oatmeal & yogurt",
-          "ru": "Овсяная каша с яблоком и йогурт"
-        },
-        {
-          "zh": "菠菜豆腐蒸蛋、南瓜泥",
-          "en": "Steamed egg with spinach and tofu & pumpkin purée",
-          "ru": "Паровой омлет со шпинатом и тофу, тыквенное пюре"
-        },
-        {
-          "zh": "番茄炖牛肉（炖软切碎）、西兰花碎、土豆泥",
-          "en": "Tender minced beef with tomato, soft broccoli & mashed potatoes",
-          "ru": "Мягкая измельчённая говядина с томатом, брокколи и картофельное пюре"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "dinner": {
-        "zh": "葱姜鸡翅、清炒小白菜、蒸紫薯",
-        "en": "Ginger-scallion chicken wings, bok choy & purple sweet potatoes",
-        "ru": "Куриные крылышки с имбирём и зелёным луком, пак-чой и фиолетовый батат"
-      },
-      "baby": [
-        {
-          "zh": "牛油果泥、软燕麦粥、酸奶",
-          "en": "Mashed avocado, soft oatmeal & yogurt",
-          "ru": "Пюре из авокадо, мягкая овсяная каша и йогурт"
-        },
-        {
-          "zh": "鸡腿肉胡萝卜软面",
-          "en": "Soft noodles with chicken and carrot",
-          "ru": "Мягкая лапша с курицей и морковью"
-        },
-        {
-          "zh": "鸡腿肉小白菜碎、紫薯泥",
-          "en": "Minced chicken with bok choy & purple sweet potato mash",
-          "ru": "Измельчённая курица с пак-чой и пюре из фиолетового батата"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "dinner": {
-        "zh": "Mama’s food",
-        "en": "Mama’s food",
-        "ru": "Еда от бабушки"
-      },
-      "baby": [
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        },
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        },
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "dinner": {
-        "zh": "Mama’s food",
-        "en": "Mama’s food",
-        "ru": "Еда от бабушки"
-      },
-      "baby": [
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        },
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        },
-        {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
-        }
-      ]
-    },
-    {
       "date": "2026-11-23",
       "dinner": {
         "zh": "香菇蒸鸡腿肉、蒸蛋、炒大白菜、蒸土豆",
@@ -172,6 +72,106 @@
           "zh": "番茄蒸蛋、豆腐西兰花碎、紫薯泥",
           "en": "Steamed egg with tomato, tofu and broccoli & purple sweet potato mash",
           "ru": "Паровой омлет с томатом, тофу с брокколи и пюре из фиолетового батата"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "dinner": {
+        "zh": "番茄炖牛肉、清炒西兰花、蒸土豆",
+        "en": "Tomato beef stew, sautéed broccoli & steamed potatoes",
+        "ru": "Говядина с томатами, брокколи и картофель на пару"
+      },
+      "baby": [
+        {
+          "zh": "香蕉燕麦糊、酸奶",
+          "en": "Banana oatmeal & yogurt",
+          "ru": "Овсяная каша с бананом и йогурт"
+        },
+        {
+          "zh": "鸡腿肉西兰花软面",
+          "en": "Soft noodles with chicken and broccoli",
+          "ru": "Мягкая лапша с курицей и брокколи"
+        },
+        {
+          "zh": "番茄牛肉碎、西兰花碎、土豆泥",
+          "en": "Minced beef with tomato, soft broccoli & mashed potatoes",
+          "ru": "Измельчённая говядина с томатом, брокколи и картофельное пюре"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "dinner": {
+        "zh": "烤猪肋排、清炒彩虹胡萝卜、蒸红薯",
+        "en": "Roasted pork ribs, sautéed rainbow carrots & steamed sweet potatoes",
+        "ru": "Запечённые свиные рёбра, разноцветная морковь и батат на пару"
+      },
+      "baby": [
+        {
+          "zh": "苹果燕麦糊、酸奶",
+          "en": "Apple oatmeal & yogurt",
+          "ru": "Овсяная каша с яблоком и йогурт"
+        },
+        {
+          "zh": "鸡腿肉胡萝卜软面",
+          "en": "Soft noodles with chicken and carrot",
+          "ru": "Мягкая лапша с курицей и морковью"
+        },
+        {
+          "zh": "火鸡肉末胡萝卜碎、红薯泥",
+          "en": "Minced turkey with carrot & sweet potato mash",
+          "ru": "Фарш индейки с морковью и пюре из батата"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "dinner": {
+        "zh": "Mama’s food",
+        "en": "Mama’s food",
+        "ru": "Еда от бабушки"
+      },
+      "baby": [
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "dinner": {
+        "zh": "Mama’s food",
+        "en": "Mama’s food",
+        "ru": "Еда от бабушки"
+      },
+      "baby": [
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
+        },
+        {
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
         }
       ]
     }
@@ -722,66 +722,6 @@
     {
       "store": "Costco",
       "name": {
-        "zh": "有机去骨鸡腿肉",
-        "en": "Organic boneless chicken thighs",
-        "ru": "Органическое филе куриного бедра"
-      },
-      "quantity": {
-        "zh": "5.5 lb · 1 包",
-        "en": "5.5 lb · 1 pack",
-        "ru": "5.5 lb · 1 уп."
-      },
-      "note": {
-        "zh": "分装冷冻",
-        "en": "Freeze extra portions",
-        "ru": "Заморозить лишние порции"
-      },
-      "id": "chicken",
-      "status": "received"
-    },
-    {
-      "store": "Costco",
-      "name": {
-        "zh": "有机火鸡肉末",
-        "en": "Organic ground turkey",
-        "ru": "Органический фарш индейки"
-      },
-      "quantity": {
-        "zh": "24 oz × 2，共 3 lb · 1 组",
-        "en": "24 oz × 2, total 3 lb · 1 set",
-        "ru": "24 oz × 2, всего 3 lb · 1 наб."
-      },
-      "note": {
-        "zh": "分装冷冻",
-        "en": "Freeze extra portions",
-        "ru": "Заморозить лишние порции"
-      },
-      "id": "turkey",
-      "status": "received"
-    },
-    {
-      "store": "Costco",
-      "name": {
-        "zh": "有机鸡蛋",
-        "en": "Organic eggs",
-        "ru": "Органические яйца"
-      },
-      "quantity": {
-        "zh": "24 枚 · 1 盒",
-        "en": "24 eggs · 1 box",
-        "ru": "24 шт. · 1 уп."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "eggs",
-      "status": "buy"
-    },
-    {
-      "store": "Costco",
-      "name": {
         "zh": "有机老豆腐",
         "en": "Organic extra-firm tofu",
         "ru": "Органический твёрдый тофу"
@@ -802,182 +742,22 @@
     {
       "store": "Costco",
       "name": {
-        "zh": "有机番茄",
-        "en": "Organic vine tomatoes",
-        "ru": "Органические томаты на ветке"
+        "zh": "有机冷冻西兰花",
+        "en": "Organic frozen broccoli",
+        "ru": "Органическая замороженная брокколи"
       },
       "quantity": {
-        "zh": "4 lb · 1 盒",
-        "en": "4 lb · 1 box",
-        "ru": "4 lb · 1 уп."
+        "zh": "1 lb × 4 · 1 袋",
+        "en": "1 lb × 4 · 1 bag",
+        "ru": "1 lb × 4 · 1 пак."
       },
       "note": {
         "zh": "",
         "en": "",
         "ru": ""
       },
-      "id": "tomato",
+      "id": "broccoli",
       "status": "buy"
-    },
-    {
-      "store": "Costco",
-      "name": {
-        "zh": "有机土豆",
-        "en": "Organic potatoes",
-        "ru": "Органический картофель"
-      },
-      "quantity": {
-        "zh": "10 lb · 1 袋",
-        "en": "10 lb · 1 bag",
-        "ru": "10 lb · 1 пак."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "potato",
-      "status": "buy"
-    },
-    {
-      "store": "Costco",
-      "name": {
-        "zh": "有机 Gala 苹果",
-        "en": "Organic Gala apples",
-        "ru": "Органические яблоки Гала"
-      },
-      "quantity": {
-        "zh": "3 lb · 1 袋",
-        "en": "3 lb · 1 bag",
-        "ru": "3 lb · 1 пак."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "apple",
-      "status": "received"
-    },
-    {
-      "store": "Costco",
-      "name": {
-        "zh": "有机香蕉",
-        "en": "Organic bananas",
-        "ru": "Органические бананы"
-      },
-      "quantity": {
-        "zh": "3 lb · 1 把",
-        "en": "3 lb · 1 bunch",
-        "ru": "3 lb · 1 связка"
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "banana",
-      "status": "received"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机紫薯",
-        "en": "Organic purple sweet potatoes",
-        "ru": "Органический фиолетовый батат"
-      },
-      "quantity": {
-        "zh": "4–5 lb",
-        "en": "4–5 lb",
-        "ru": "4–5 lb"
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "sweetpotato",
-      "status": "buy"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机小白菜",
-        "en": "Organic baby bok choy",
-        "ru": "Органический пак-чой"
-      },
-      "quantity": {
-        "zh": "3 棵",
-        "en": "3 heads",
-        "ru": "3 шт."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "bokchoy",
-      "status": "received"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机大白菜",
-        "en": "Organic napa cabbage",
-        "ru": "Органическая пекинская капуста"
-      },
-      "quantity": {
-        "zh": "1 颗",
-        "en": "1 head",
-        "ru": "1 шт."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "cabbage",
-      "status": "received"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机西葫芦",
-        "en": "Organic zucchini",
-        "ru": "Органические кабачки"
-      },
-      "quantity": {
-        "zh": "2 根",
-        "en": "2 pcs",
-        "ru": "2 шт."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "zucchini",
-      "status": "received"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机彩虹胡萝卜",
-        "en": "Organic rainbow carrots",
-        "ru": "Органическая разноцветная морковь"
-      },
-      "quantity": {
-        "zh": "32 oz",
-        "en": "32 oz",
-        "ru": "32 oz"
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "carrot",
-      "status": "received"
     },
     {
       "store": "Whole Foods",
@@ -987,9 +767,9 @@
         "ru": "Органические грибы шиитаке"
       },
       "quantity": {
-        "zh": "8 oz",
-        "en": "8 oz",
-        "ru": "8 oz"
+        "zh": "8 oz 盒",
+        "en": "8 oz box",
+        "ru": "8 oz уп."
       },
       "note": {
         "zh": "",
@@ -997,27 +777,27 @@
         "ru": ""
       },
       "id": "shiitake",
-      "status": "received"
+      "status": "buy"
     },
     {
       "store": "Whole Foods",
       "name": {
-        "zh": "有机 Bartlett 梨",
-        "en": "Organic Bartlett pears",
-        "ru": "Органические груши Бартлетт"
+        "zh": "有机紫薯",
+        "en": "Organic purple sweet potatoes",
+        "ru": "Органический фиолетовый батат"
       },
       "quantity": {
-        "zh": "2 个",
-        "en": "2 pcs",
-        "ru": "2 шт."
+        "zh": "2 lb",
+        "en": "2 lb",
+        "ru": "2 lb"
       },
       "note": {
         "zh": "",
         "en": "",
         "ru": ""
       },
-      "id": "pear",
-      "status": "received"
+      "id": "sweetpotato",
+      "status": "buy"
     }
   ],
   "inventoryModel": {
@@ -1399,6 +1179,17 @@
         "asOf": "2026-11-19T00:00:00-08:00"
       },
       {
+        "id": "ribs",
+        "name": {
+          "zh": "猪肋排",
+          "en": "Pork ribs",
+          "ru": "Свиные рёбра"
+        },
+        "unit": "g",
+        "quantity": null,
+        "asOf": "2026-11-19T00:00:00-08:00"
+      },
+      {
         "id": "pancake",
         "name": {
           "en": "Scallion pancakes",
@@ -1627,6 +1418,114 @@
           "sweetpotato": 850,
           "oil": 20
         }
+      },
+      {
+        "id": "2026-11-26-breakfast",
+        "type": "meal",
+        "at": "2026-11-26T10:00:00-08:00",
+        "uses": {
+          "banana": 50,
+          "oats": 20,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-26-lunch",
+        "type": "meal",
+        "at": "2026-11-26T14:00:00-08:00",
+        "uses": {
+          "chicken": 30,
+          "broccoli": 25,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-26-dinner",
+        "type": "meal",
+        "at": "2026-11-26T21:00:00-08:00",
+        "uses": {
+          "beef": 650,
+          "tomato": 500,
+          "broccoli": 450,
+          "potato": 850,
+          "oil": 20
+        }
+      },
+      {
+        "id": "2026-11-27-breakfast",
+        "type": "meal",
+        "at": "2026-11-27T10:00:00-08:00",
+        "uses": {
+          "apple": 50,
+          "oats": 20,
+          "eggs": 1,
+          "pancake": 1,
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-27-lunch",
+        "type": "meal",
+        "at": "2026-11-27T14:00:00-08:00",
+        "uses": {
+          "chicken": 30,
+          "carrot": 25,
+          "noodles": 25
+        }
+      },
+      {
+        "id": "2026-11-27-dinner",
+        "type": "meal",
+        "at": "2026-11-27T21:00:00-08:00",
+        "uses": {
+          "ribs": 1000,
+          "turkey": 30,
+          "carrot": 450,
+          "sweetpotato": 650,
+          "oil": 15
+        }
+      },
+      {
+        "id": "2026-11-28-breakfast",
+        "type": "meal",
+        "at": "2026-11-28T10:00:00-08:00",
+        "uses": {
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-28-lunch",
+        "type": "meal",
+        "at": "2026-11-28T14:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-28-dinner",
+        "type": "meal",
+        "at": "2026-11-28T21:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-29-breakfast",
+        "type": "meal",
+        "at": "2026-11-29T10:00:00-08:00",
+        "uses": {
+          "yogurt": 1
+        }
+      },
+      {
+        "id": "2026-11-29-lunch",
+        "type": "meal",
+        "at": "2026-11-29T14:00:00-08:00",
+        "uses": {}
+      },
+      {
+        "id": "2026-11-29-dinner",
+        "type": "meal",
+        "at": "2026-11-29T21:00:00-08:00",
+        "uses": {}
       }
     ],
     "adjustments": [],
@@ -1641,5 +1540,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-22T00:04:53.493052-08:00"
+  "updatedAt": "2026-11-22T08:00:23.275513-08:00"
 }
