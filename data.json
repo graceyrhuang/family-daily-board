@@ -78,9 +78,9 @@
     {
       "date": "2026-11-26",
       "dinner": {
-        "zh": "番茄炖牛肉、清炒西兰花、蒸土豆",
-        "en": "Tomato beef stew, sautéed broccoli & steamed potatoes",
-        "ru": "Говядина с томатами, брокколи и картофель на пару"
+        "zh": "感恩节去 Mama 家吃饭 · 准备烤鸭",
+        "en": "Thanksgiving dinner at Mama’s · bring roast duck",
+        "ru": "День благодарения у бабушки · запечённая утка"
       },
       "baby": [
         {
@@ -94,9 +94,9 @@
           "ru": "Мягкая лапша с курицей и брокколи"
         },
         {
-          "zh": "番茄牛肉碎、西兰花碎、土豆泥",
-          "en": "Minced beef with tomato, soft broccoli & mashed potatoes",
-          "ru": "Измельчённая говядина с томатом, брокколи и картофельное пюре"
+          "zh": "去 Mama 家吃",
+          "en": "Dinner at Mama’s",
+          "ru": "Ужин у бабушки"
         }
       ]
     },
@@ -1451,7 +1451,9 @@
           "broccoli": 450,
           "potato": 850,
           "oil": 20
-        }
+        },
+        "cancelled": true,
+        "note": "Thanksgiving dinner at Mama’s (2026-11-23)"
       },
       {
         "id": "2026-11-27-breakfast",
@@ -1540,5 +1542,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-23T00:07:52.666583-08:00"
+  "updatedAt": "2026-11-23T14:21:11.095734-08:00"
 }
