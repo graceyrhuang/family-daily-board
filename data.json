@@ -53,9 +53,9 @@
     {
       "date": "2026-11-25",
       "dinner": {
-        "zh": "番茄炒蛋、香菇豆腐、炒西兰花、蒸紫薯",
-        "en": "Tomato scrambled eggs, shiitake tofu, broccoli & purple sweet potatoes",
-        "ru": "Яичница с томатами, тофу с шиитаке, брокколи и фиолетовый батат"
+        "zh": "番茄炒蛋、香菇豆腐、清炒大白菜、蒸紫薯",
+        "en": "Tomato scrambled eggs, shiitake tofu, sautéed napa cabbage & purple sweet potatoes",
+        "ru": "Яичница с томатами, тофу с шиитаке, пекинская капуста и фиолетовый батат"
       },
       "baby": [
         {
@@ -103,9 +103,9 @@
     {
       "date": "2026-11-27",
       "dinner": {
-        "zh": "烤猪肋排、清炒彩虹胡萝卜、蒸红薯",
-        "en": "Roasted pork ribs, sautéed rainbow carrots & steamed sweet potatoes",
-        "ru": "Запечённые свиные рёбра, разноцветная морковь и батат на пару"
+        "zh": "烤猪肋排、清炒大白菜、蒸红薯",
+        "en": "Roasted pork ribs, sautéed napa cabbage & steamed sweet potatoes",
+        "ru": "Запечённые свиные рёбра, пекинская капуста и батат на пару"
       },
       "baby": [
         {
@@ -424,11 +424,11 @@
         "ru": "Шпинат"
       },
       "quantity": {
-        "zh": "1 盒",
-        "en": "1 box",
-        "ru": "1 уп."
+        "zh": "0",
+        "en": "0",
+        "ru": "0"
       },
-      "date": "2026-11-18",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "spinach"
     },
@@ -484,11 +484,11 @@
         "ru": "Пекинская капуста"
       },
       "quantity": {
-        "zh": "1 颗",
-        "en": "1 head",
-        "ru": "1 шт."
+        "zh": "0",
+        "en": "0",
+        "ru": "0"
       },
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "cabbage"
     },
@@ -514,11 +514,11 @@
         "ru": "Пак-чой"
       },
       "quantity": {
-        "zh": "3 颗",
-        "en": "3 heads",
-        "ru": "3 шт."
+        "zh": "0",
+        "en": "0",
+        "ru": "0"
       },
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "bokchoy"
     },
@@ -798,6 +798,26 @@
       },
       "id": "sweetpotato",
       "status": "buy"
+    },
+    {
+      "store": "Whole Foods",
+      "name": {
+        "zh": "有机大白菜",
+        "en": "Organic napa cabbage",
+        "ru": "Органическая пекинская капуста"
+      },
+      "quantity": {
+        "zh": "2 颗",
+        "en": "2 heads",
+        "ru": "2 шт."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "cabbage",
+      "status": "buy"
     }
   ],
   "inventoryModel": {
@@ -966,8 +986,8 @@
           "ru": "Шпинат"
         },
         "unit": "g",
-        "quantity": null,
-        "asOf": "2026-11-19T00:00:00-08:00"
+        "quantity": 0,
+        "asOf": "2026-11-24T15:00:00-08:00"
       },
       {
         "id": "pumpkin",
@@ -1120,8 +1140,8 @@
           "ru": "Органический пак-чой"
         },
         "unit": "g",
-        "quantity": 450,
-        "asOf": "2026-11-19T16:00:00-08:00"
+        "quantity": 0,
+        "asOf": "2026-11-24T15:00:00-08:00"
       },
       {
         "id": "cabbage",
@@ -1131,8 +1151,8 @@
           "ru": "Органическая пекинская капуста"
         },
         "unit": "g",
-        "quantity": 1180,
-        "asOf": "2026-11-19T16:00:00-08:00"
+        "quantity": 0,
+        "asOf": "2026-11-24T15:00:00-08:00"
       },
       {
         "id": "zucchini",
@@ -1343,7 +1363,7 @@
           "chicken": 650,
           "shiitake": 150,
           "eggs": 4,
-          "cabbage": 450,
+          "cabbage": 385,
           "potato": 850,
           "oil": 15
         }
@@ -1414,7 +1434,8 @@
           "eggs": 7,
           "shiitake": 150,
           "tofu": 450,
-          "broccoli": 450,
+          "cabbage": 300,
+          "broccoli": 25,
           "sweetpotato": 850,
           "oil": 20
         }
@@ -1484,7 +1505,8 @@
         "uses": {
           "ribs": 1000,
           "turkey": 30,
-          "carrot": 450,
+          "carrot": 25,
+          "cabbage": 300,
           "sweetpotato": 650,
           "oil": 15
         }
@@ -1542,5 +1564,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-24T00:04:58.407718-08:00"
+  "updatedAt": "2026-11-24T17:54:48.563314-08:00"
 }
