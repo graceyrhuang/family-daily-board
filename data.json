@@ -184,11 +184,11 @@
         "ru": "Детский йогурт"
       },
       "quantity": {
-        "zh": "10 瓶",
-        "en": "10 cups",
-        "ru": "10 стаканчиков"
+        "zh": "11/20 实盘 10 杯 + 11/24 新收 6 杯",
+        "en": "11/20 实盘 10 杯 + 11/24 新收 6 杯",
+        "ru": "11/20 实盘 10 杯 + 11/24 新收 6 杯"
       },
-      "date": "2026-11-20",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "yogurt"
     },
@@ -409,11 +409,11 @@
         "ru": "Зелёный лук"
       },
       "quantity": {
-        "zh": "1 袋",
-        "en": "1 bag",
-        "ru": "1 пак."
+        "zh": "旧库存余量未知 + 新收 2 把",
+        "en": "旧库存余量未知 + 新收 2 bunch",
+        "ru": "旧库存余量未知 + 新收 2 связка"
       },
-      "date": "2026-11-18",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "scallion"
     },
@@ -424,9 +424,9 @@
         "ru": "Шпинат"
       },
       "quantity": {
-        "zh": "0",
-        "en": "0",
-        "ru": "0"
+        "zh": "5 oz 盒",
+        "en": "5 oz box",
+        "ru": "5 oz уп."
       },
       "date": "2026-11-24",
       "expiry": "",
@@ -484,9 +484,9 @@
         "ru": "Пекинская капуста"
       },
       "quantity": {
-        "zh": "0",
-        "en": "0",
-        "ru": "0"
+        "zh": "1 颗",
+        "en": "1 head",
+        "ru": "1 шт."
       },
       "date": "2026-11-24",
       "expiry": "",
@@ -544,13 +544,133 @@
         "ru": "Замороженная брокколи"
       },
       "quantity": {
-        "zh": "10 oz × 2 包",
-        "en": "10 oz × 2 packs",
-        "ru": "10 oz × 2 уп."
+        "zh": "新收 10 oz × 2 包；旧批次余量未知",
+        "en": "新收 10 oz × 2 packs；旧批次余量未知",
+        "ru": "新收 10 oz × 2 уп.；旧批次余量未知"
       },
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "expiry": "",
       "id": "broccoli"
+    },
+    {
+      "name": {
+        "zh": "黄瓜",
+        "en": "Cucumbers",
+        "ru": "Огурцы"
+      },
+      "quantity": {
+        "zh": "4 根",
+        "en": "4 pcs",
+        "ru": "4 шт."
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "cucumber"
+    },
+    {
+      "name": {
+        "zh": "西芹",
+        "en": "Celery",
+        "ru": "Сельдерей"
+      },
+      "quantity": {
+        "zh": "1 把",
+        "en": "1 bunch",
+        "ru": "1 связка"
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "celery"
+    },
+    {
+      "name": {
+        "zh": "奶酪",
+        "en": "Cheese",
+        "ru": "Сыр"
+      },
+      "quantity": {
+        "zh": "0.66 lb + 0.52 lb",
+        "en": "0.66 lb + 0.52 lb",
+        "ru": "0.66 lb + 0.52 lb"
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "cheese"
+    },
+    {
+      "name": {
+        "zh": "三文鱼鱼子酱",
+        "en": "Salmon caviar",
+        "ru": "Лососевая икра"
+      },
+      "quantity": {
+        "zh": "1.75 oz 盒",
+        "en": "1.75 oz box",
+        "ru": "1.75 oz уп."
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "caviar"
+    },
+    {
+      "name": {
+        "zh": "有机茶饮",
+        "en": "Organic tea drinks",
+        "ru": "Органические чайные напитки"
+      },
+      "quantity": {
+        "zh": "16 fl oz × 4 瓶",
+        "en": "16 fl oz × 4 cups",
+        "ru": "16 fl oz × 4 стаканчиков"
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "tea"
+    },
+    {
+      "name": {
+        "zh": "果蔬汁",
+        "en": "Fruit & vegetable juice",
+        "ru": "Фруктово-овощной сок"
+      },
+      "quantity": {
+        "zh": "32 fl oz × 2 瓶",
+        "en": "32 fl oz × 2 cups",
+        "ru": "32 fl oz × 2 стаканчиков"
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "juice"
+    },
+    {
+      "name": {
+        "zh": "面包",
+        "en": "Bread",
+        "ru": "Хлеб"
+      },
+      "quantity": {
+        "zh": "16 oz 条",
+        "en": "16 oz 条",
+        "ru": "16 oz 条"
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "bread"
+    },
+    {
+      "name": {
+        "zh": "萨拉米",
+        "en": "Salami",
+        "ru": "Салями"
+      },
+      "quantity": {
+        "zh": "6 oz 包",
+        "en": "6 oz pack",
+        "ru": "6 oz уп."
+      },
+      "date": "2026-11-24",
+      "expiry": "",
+      "id": "salami"
     },
     {
       "name": {
@@ -787,9 +907,9 @@
         "ru": "Органическая пекинская капуста"
       },
       "quantity": {
-        "zh": "2 颗",
-        "en": "2 heads",
-        "ru": "2 шт."
+        "zh": "实收 1 颗",
+        "en": "实收 1 head",
+        "ru": "实收 1 шт."
       },
       "note": {
         "zh": "",
@@ -797,7 +917,7 @@
         "ru": ""
       },
       "id": "cabbage",
-      "status": "cart"
+      "status": "received"
     },
     {
       "store": "Whole Foods",
@@ -807,17 +927,17 @@
         "ru": "Органический молодой шпинат"
       },
       "quantity": {
-        "zh": "8 oz 盒",
-        "en": "8 oz box",
-        "ru": "8 oz уп."
+        "zh": "实收 5 oz 盒",
+        "en": "实收 5 oz box",
+        "ru": "实收 5 oz уп."
       },
       "note": {
-        "zh": "分装冷冻",
-        "en": "Freeze extra portions",
-        "ru": "Заморозить лишние порции"
+        "zh": "",
+        "en": "",
+        "ru": ""
       },
       "id": "spinach",
-      "status": "cart"
+      "status": "received"
     },
     {
       "store": "Whole Foods",
@@ -827,9 +947,9 @@
         "ru": "Органические соцветия брокколи"
       },
       "quantity": {
-        "zh": "10 oz 袋",
-        "en": "10 oz bag",
-        "ru": "10 oz пак."
+        "zh": "实收 10 oz × 2 袋",
+        "en": "实收 10 oz × 2 bags",
+        "ru": "实收 10 oz × 2 пак."
       },
       "note": {
         "zh": "",
@@ -837,27 +957,7 @@
         "ru": ""
       },
       "id": "broccoli",
-      "status": "cart"
-    },
-    {
-      "store": "Whole Foods",
-      "name": {
-        "zh": "有机黄瓜",
-        "en": "Organic cucumber",
-        "ru": "Органический огурец"
-      },
-      "quantity": {
-        "zh": "1 根 × 2",
-        "en": "1 × 2",
-        "ru": "1 шт. × 2"
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "cucumber",
-      "status": "cart"
+      "status": "received"
     },
     {
       "store": "Whole Foods",
@@ -867,9 +967,9 @@
         "ru": "Органический английский огурец"
       },
       "quantity": {
-        "zh": "1 根 × 2",
-        "en": "1 × 2",
-        "ru": "1 шт. × 2"
+        "zh": "实收 4 根",
+        "en": "实收 4 pcs",
+        "ru": "实收 4 шт."
       },
       "note": {
         "zh": "",
@@ -877,7 +977,7 @@
         "ru": ""
       },
       "id": "cucumber-english",
-      "status": "cart"
+      "status": "received"
     }
   ],
   "inventoryModel": {
@@ -1612,7 +1712,36 @@
         "uses": {}
       }
     ],
-    "adjustments": [],
+    "adjustments": [
+      {
+        "id": "receipt-wfm-2026-11-24-yogurt",
+        "type": "receipt",
+        "item": "yogurt",
+        "quantity": 6,
+        "at": "2026-11-24T20:38:00-08:00"
+      },
+      {
+        "id": "receipt-wfm-2026-11-24-spinach",
+        "type": "receipt",
+        "item": "spinach",
+        "quantity": 141.7475,
+        "at": "2026-11-24T20:38:00-08:00"
+      },
+      {
+        "id": "receipt-wfm-2026-11-24-cabbage",
+        "type": "receipt",
+        "item": "cabbage",
+        "quantity": 1138.5164,
+        "at": "2026-11-24T20:38:00-08:00"
+      },
+      {
+        "id": "count-wfm-2026-11-24-broccoli-lower-bound",
+        "type": "count",
+        "item": "broccoli",
+        "quantity": 566.9905,
+        "at": "2026-11-24T20:38:00-08:00"
+      }
+    ],
     "dailyMinimumUses": [
       {
         "id": "daily-eggs-minimum",
@@ -1624,5 +1753,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-24T18:09:28.076094-08:00"
+  "updatedAt": "2026-11-24T20:56:19.948007-08:00"
 }
