@@ -838,6 +838,26 @@
       },
       "id": "broccoli",
       "status": "cart"
+    },
+    {
+      "store": "Whole Foods",
+      "name": {
+        "zh": "有机黄瓜",
+        "en": "Organic cucumber",
+        "ru": "Органический огурец"
+      },
+      "quantity": {
+        "zh": "1 根 × 2",
+        "en": "1 × 2",
+        "ru": "1 шт. × 2"
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "cucumber",
+      "status": "cart"
     }
   ],
   "inventoryModel": {
@@ -1584,5 +1604,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-24T18:00:32.189254-08:00"
+  "updatedAt": "2026-11-24T18:05:45.769061-08:00"
 }
