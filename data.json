@@ -740,26 +740,6 @@
       "status": "buy"
     },
     {
-      "store": "Costco",
-      "name": {
-        "zh": "有机冷冻西兰花",
-        "en": "Organic frozen broccoli",
-        "ru": "Органическая замороженная брокколи"
-      },
-      "quantity": {
-        "zh": "1 lb × 4 · 1 袋",
-        "en": "1 lb × 4 · 1 bag",
-        "ru": "1 lb × 4 · 1 пак."
-      },
-      "note": {
-        "zh": "",
-        "en": "",
-        "ru": ""
-      },
-      "id": "broccoli",
-      "status": "buy"
-    },
-    {
       "store": "Whole Foods",
       "name": {
         "zh": "有机香菇",
@@ -817,6 +797,46 @@
         "ru": ""
       },
       "id": "cabbage",
+      "status": "cart"
+    },
+    {
+      "store": "Whole Foods",
+      "name": {
+        "zh": "有机宝宝菠菜",
+        "en": "Organic baby spinach",
+        "ru": "Органический молодой шпинат"
+      },
+      "quantity": {
+        "zh": "8 oz 盒",
+        "en": "8 oz box",
+        "ru": "8 oz уп."
+      },
+      "note": {
+        "zh": "分装冷冻",
+        "en": "Freeze extra portions",
+        "ru": "Заморозить лишние порции"
+      },
+      "id": "spinach",
+      "status": "cart"
+    },
+    {
+      "store": "Whole Foods",
+      "name": {
+        "zh": "有机西兰花",
+        "en": "Organic broccoli florets",
+        "ru": "Органические соцветия брокколи"
+      },
+      "quantity": {
+        "zh": "10 oz 袋",
+        "en": "10 oz bag",
+        "ru": "10 oz пак."
+      },
+      "note": {
+        "zh": "",
+        "en": "",
+        "ru": ""
+      },
+      "id": "broccoli",
       "status": "cart"
     }
   ],
@@ -1564,5 +1584,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-24T17:57:20.047111-08:00"
+  "updatedAt": "2026-11-24T18:00:32.189254-08:00"
 }
