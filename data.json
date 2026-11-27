@@ -103,25 +103,25 @@
     {
       "date": "2026-11-27",
       "dinner": {
-        "zh": "烤猪肋排、清炒大白菜、蒸红薯",
-        "en": "Roasted pork ribs, sautéed napa cabbage & steamed sweet potatoes",
-        "ru": "Запечённые свиные рёбра, пекинская капуста и батат на пару"
+        "zh": "Mama’s food",
+        "en": "Mama’s food",
+        "ru": "Еда от бабушки"
       },
       "baby": [
         {
-          "zh": "苹果燕麦糊、酸奶",
-          "en": "Apple oatmeal & yogurt",
-          "ru": "Овсяная каша с яблоком и йогурт"
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
         },
         {
-          "zh": "鸡腿肉胡萝卜软面",
-          "en": "Soft noodles with chicken and carrot",
-          "ru": "Мягкая лапша с курицей и морковью"
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
         },
         {
-          "zh": "火鸡肉末胡萝卜碎、红薯泥",
-          "en": "Minced turkey with carrot & sweet potato mash",
-          "ru": "Фарш индейки с морковью и пюре из батата"
+          "zh": "Mama’s food",
+          "en": "Mama’s food",
+          "ru": "Еда от бабушки"
         }
       ]
     },
@@ -153,25 +153,25 @@
     {
       "date": "2026-11-29",
       "dinner": {
-        "zh": "Mama’s food",
-        "en": "Mama’s food",
-        "ru": "Еда от бабушки"
+        "zh": "烤猪肋排、清炒大白菜、蒸红薯",
+        "en": "Roasted pork ribs, sautéed napa cabbage & steamed sweet potatoes",
+        "ru": "Запечённые свиные рёбра, пекинская капуста и батат на пару"
       },
       "baby": [
         {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
+          "zh": "苹果燕麦糊、酸奶",
+          "en": "Apple oatmeal & yogurt",
+          "ru": "Овсяная каша с яблоком и йогурт"
         },
         {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
+          "zh": "鸡腿肉胡萝卜软面",
+          "en": "Soft noodles with chicken and carrot",
+          "ru": "Мягкая лапша с курицей и морковью"
         },
         {
-          "zh": "Mama’s food",
-          "en": "Mama’s food",
-          "ru": "Еда от бабушки"
+          "zh": "火鸡肉末胡萝卜碎、红薯泥",
+          "en": "Minced turkey with carrot & sweet potato mash",
+          "ru": "Фарш индейки с морковью и пюре из батата"
         }
       ]
     }
@@ -1753,5 +1753,5 @@
     ],
     "portionBasis": "Planning recipe amounts: raw edible grams; Sunday-Thursday dinner normally includes next-day office lunch, Friday excludes it; baby is separate. Egg use has a four-per-day household floor, increased by egg-heavy menu days. Chicken thigh and wing baselines are receipt-derived estimates for the 2026-11-19 Costco batch only; older frozen stock remains unweighed."
   },
-  "updatedAt": "2026-11-26T20:53:32.318671-08:00"
+  "updatedAt": "2026-11-26T20:57:07.300882-08:00"
 }
